@@ -1,0 +1,1551 @@
+customerID,actual_churn,churn_probability,risk_level,recommended_action
+2955-BJZHG,1,0.6672375878275228,High,Priority retention call + discount
+4702-HDRKD,0,0.12768057835732013,Low,Maintain engagement
+7067-KSAZT,1,0.5529222467107671,Medium,Send personalized offer
+3707-GNWHM,1,0.9219115580098936,High,Priority retention call + discount
+2239-CFOUJ,0,0.22433173372801288,Low,Maintain engagement
+6048-QBXKL,0,0.7291634267126033,High,Priority retention call + discount
+2188-SXWVT,0,0.08919213568410989,Low,Maintain engagement
+4317-VTEOA,1,0.765055581827922,High,Priority retention call + discount
+3812-LRZIR,0,0.04996477066340196,Low,Maintain engagement
+6701-YVNQG,0,0.06917787159347913,Low,Maintain engagement
+2101-RANCD,0,0.6236448144237887,High,Priority retention call + discount
+7873-CVMAW,0,0.04684086608562105,Low,Maintain engagement
+8988-ECPJR,1,0.5611737503021892,Medium,Send personalized offer
+7636-PEPNS,0,0.12959307649340854,Low,Maintain engagement
+1820-TQVEV,1,0.9210145386018501,High,Priority retention call + discount
+0322-CHQRU,1,0.6950388806120202,High,Priority retention call + discount
+0913-XWSCN,0,0.5199251320594959,Medium,Send personalized offer
+8873-GLDMH,0,0.8627769242211746,High,Priority retention call + discount
+1069-XAIEM,1,0.9682644905589364,High,Priority retention call + discount
+2498-XLDZR,0,0.040576196709376296,Low,Maintain engagement
+4500-HKANN,0,0.06200481715539351,Low,Maintain engagement
+3055-VTCGS,0,0.14092475607406907,Low,Maintain engagement
+9840-DVNDC,1,0.8579221236239765,High,Priority retention call + discount
+5027-YOCXN,0,0.26727263608971946,Low,Maintain engagement
+1353-GHZOS,0,0.20934376397871188,Low,Maintain engagement
+5698-BQJOH,1,0.868942201567459,High,Priority retention call + discount
+9530-GRMJG,0,0.09989152837626919,Low,Maintain engagement
+5524-KHNJP,0,0.14717129760935238,Low,Maintain engagement
+1465-LNTLJ,0,0.5236958240190538,Medium,Send personalized offer
+2773-MADBQ,0,0.09000493004560282,Low,Maintain engagement
+0980-FEXWF,0,0.15324508842694212,Low,Maintain engagement
+4678-DVQEO,1,0.7159946984685133,High,Priority retention call + discount
+1227-UDMZR,0,0.05933658504627226,Low,Maintain engagement
+6171-ZTVYB,0,0.16159963178980763,Low,Maintain engagement
+6848-YLDFR,0,0.15124877566887804,Low,Maintain engagement
+6365-HITVU,0,0.025216753819824817,Low,Maintain engagement
+7926-IJOOU,0,0.4156541948909374,Medium,Send personalized offer
+1926-QUZNN,0,0.02731564882779052,Low,Maintain engagement
+3967-VQOGC,0,0.026105788312377524,Low,Maintain engagement
+1555-HAPSU,0,0.01748727565436178,Low,Maintain engagement
+9643-AVVWI,0,0.8074030767423885,High,Priority retention call + discount
+5016-IBERQ,0,0.6428701512006323,High,Priority retention call + discount
+2400-FEQME,0,0.018007729566676338,Low,Maintain engagement
+1492-QGCLU,0,0.2997729894203221,Low,Maintain engagement
+8777-PVYGU,0,0.13969371286856386,Low,Maintain engagement
+0654-HMSHN,1,0.7505941574637344,High,Priority retention call + discount
+8849-GYOKR,1,0.3257235671393331,Medium,Send personalized offer
+9940-RHLFB,1,0.8972412480621443,High,Priority retention call + discount
+7205-BAIAD,0,0.03304106597317655,Low,Maintain engagement
+4983-CCWMC,0,0.839756636315291,High,Priority retention call + discount
+1658-TJVOA,0,0.8107352664565509,High,Priority retention call + discount
+4377-VDHYI,0,0.36170477862216005,Medium,Send personalized offer
+0625-AFOHS,0,0.02764488457918607,Low,Maintain engagement
+5339-PXDVH,0,0.8477341718781058,High,Priority retention call + discount
+8409-WQJUX,0,0.33603267356745786,Medium,Send personalized offer
+4226-KKDON,0,0.5736948977875672,Medium,Send personalized offer
+1929-ZCBHE,0,0.11413682650490119,Low,Maintain engagement
+5419-KLXBN,1,0.5560501608524244,Medium,Send personalized offer
+4946-EDSEW,1,0.2963918892561643,Low,Maintain engagement
+3209-ZPKFI,0,0.26853507817163713,Low,Maintain engagement
+8397-MVTAZ,1,0.8185270193225038,High,Priority retention call + discount
+2967-MXRAV,0,0.23108831434462915,Low,Maintain engagement
+5063-IUOKK,0,0.048729314278365916,Low,Maintain engagement
+7762-ONLJY,0,0.18664537885057567,Low,Maintain engagement
+1587-FKLZB,1,0.6663840103720202,High,Priority retention call + discount
+0769-MURVM,0,0.04070862221816468,Low,Maintain engagement
+6288-CHQJB,0,0.028506844441664528,Low,Maintain engagement
+6861-XWTWQ,1,0.9377131467501862,High,Priority retention call + discount
+6230-BSUXY,1,0.9580080876807617,High,Priority retention call + discount
+9420-LOJKX,1,0.6951919250595702,High,Priority retention call + discount
+7919-ZODZZ,0,0.3086909498320395,Medium,Send personalized offer
+3992-YWPKO,1,0.8669539456905094,High,Priority retention call + discount
+5155-AZQPB,0,0.30868458921015407,Medium,Send personalized offer
+2187-LZGPL,1,0.6490120561127943,High,Priority retention call + discount
+7181-OQCUT,0,0.6500805774615185,High,Priority retention call + discount
+5360-LJCNJ,0,0.21284997250890092,Low,Maintain engagement
+0707-HOVVN,0,0.06674597850448707,Low,Maintain engagement
+6283-GITPX,0,0.025972360362471053,Low,Maintain engagement
+5751-USDBL,0,0.03798146507356018,Low,Maintain engagement
+8671-KKKOS,0,0.3303998860419,Medium,Send personalized offer
+8646-JCOMS,0,0.23354554110630044,Low,Maintain engagement
+0581-MDMPW,0,0.7508386031462893,High,Priority retention call + discount
+9048-JVYVF,1,0.8132105729163379,High,Priority retention call + discount
+6838-HVLXG,0,0.23167500506641076,Low,Maintain engagement
+8059-UDZFY,0,0.6934735925623577,High,Priority retention call + discount
+7599-FKVXZ,1,0.6305308456413424,High,Priority retention call + discount
+6712-OAWRH,1,0.8099492115220233,High,Priority retention call + discount
+5329-KRDTM,0,0.04969682017348939,Low,Maintain engagement
+3181-MIZBN,0,0.23772980697119026,Low,Maintain engagement
+7733-UDMTP,0,0.5726250620346615,Medium,Send personalized offer
+0432-CAJZV,0,0.9041087590182961,High,Priority retention call + discount
+3334-CTHOL,1,0.7886923008792618,High,Priority retention call + discount
+9334-GWGOW,0,0.8799533774113264,High,Priority retention call + discount
+0486-HECZI,1,0.6101136617782257,High,Priority retention call + discount
+4464-JCOLN,1,0.21416447684197149,Low,Maintain engagement
+9576-ANLXO,1,0.8177221401752465,High,Priority retention call + discount
+9661-MHUMO,1,0.6684570002848306,High,Priority retention call + discount
+1494-EJZDW,0,0.04829250052506247,Low,Maintain engagement
+2533-QVMSK,1,0.23332731678483407,Low,Maintain engagement
+8718-PTMEZ,1,0.606784542334438,High,Priority retention call + discount
+2019-HDCZY,0,0.3007903540495572,Medium,Send personalized offer
+2075-PUEPR,0,0.018033874673848847,Low,Maintain engagement
+7602-DBTOU,0,0.0151730534411583,Low,Maintain engagement
+0019-EFAEP,0,0.12175483370295866,Low,Maintain engagement
+2250-IVBWA,0,0.29459141013356077,Low,Maintain engagement
+9565-JSNFM,1,0.3371277701030119,Medium,Send personalized offer
+4115-NZRKS,0,0.9136385393948728,High,Priority retention call + discount
+2669-QVCRG,0,0.4673607818144132,Medium,Send personalized offer
+4937-QPZPO,0,0.5603396734471726,Medium,Send personalized offer
+8450-JOVAH,1,0.5498867516836943,Medium,Send personalized offer
+8741-LQOBK,0,0.1753342441575536,Low,Maintain engagement
+7632-YUTXB,0,0.07016488322354647,Low,Maintain engagement
+5018-LXQQG,0,0.18307037057042166,Low,Maintain engagement
+1386-ZIKUV,0,0.3515075821256817,Medium,Send personalized offer
+2233-TXSIU,0,0.21887236335353644,Low,Maintain engagement
+3018-TFTSU,1,0.5543650146701933,Medium,Send personalized offer
+5760-FXFVO,0,0.781643848643875,High,Priority retention call + discount
+1174-FGIFN,0,0.4913713429882687,Medium,Send personalized offer
+3363-DTIVD,0,0.16383111819922608,Low,Maintain engagement
+6194-HBGQN,0,0.14547314429800492,Low,Maintain engagement
+0516-OOHAR,0,0.36216821105810354,Medium,Send personalized offer
+9283-LZQOH,1,0.7190189832533656,High,Priority retention call + discount
+9025-ZRPVR,1,0.32935290827076136,Medium,Send personalized offer
+4981-FLTMF,0,0.12607240277859388,Low,Maintain engagement
+3985-HOYPM,0,0.08325832106760615,Low,Maintain engagement
+4654-ULTTN,0,0.051936013596461855,Low,Maintain engagement
+7750-EYXWZ,0,0.439530313244096,Medium,Send personalized offer
+7218-HKQFK,1,0.9412175584885955,High,Priority retention call + discount
+7649-SIJJF,0,0.05227297937754975,Low,Maintain engagement
+6023-YEBUP,1,0.9482893627982354,High,Priority retention call + discount
+4039-PIMHX,0,0.05470031164106723,Low,Maintain engagement
+9812-GHVRI,0,0.5661275096053326,Medium,Send personalized offer
+5129-JLPIS,0,0.6449808384625593,High,Priority retention call + discount
+3756-VNWDH,0,0.5056968424847247,Medium,Send personalized offer
+8532-UEFWH,0,0.026220270380962602,Low,Maintain engagement
+3301-VKTGC,0,0.2053080254758814,Low,Maintain engagement
+9039-RBEEE,1,0.3228966533580141,Medium,Send personalized offer
+8414-MYSHR,1,0.9361042943142034,High,Priority retention call + discount
+4846-WHAFZ,1,0.6963736414088846,High,Priority retention call + discount
+9339-FIIJL,0,0.05868352575734768,Low,Maintain engagement
+6064-ZATLR,0,0.04355087752869505,Low,Maintain engagement
+1085-LDWAM,0,0.04317118528064401,Low,Maintain engagement
+1536-HBSWP,0,0.7264575700022148,High,Priority retention call + discount
+4660-IRIBM,0,0.604742773078685,High,Priority retention call + discount
+0235-KGSLC,1,0.9270332459704914,High,Priority retention call + discount
+7359-WWYJV,0,0.11162971939264506,Low,Maintain engagement
+6848-HJTXY,0,0.01787224742111531,Low,Maintain engagement
+4815-YOSUK,0,0.21853710100199805,Low,Maintain engagement
+1136-XGEQU,0,0.21884770718680685,Low,Maintain engagement
+1122-YJBCS,0,0.08024004154571412,Low,Maintain engagement
+9919-FZDED,0,0.09633544394119536,Low,Maintain engagement
+2955-PSXOE,1,0.48384383150438226,Medium,Send personalized offer
+5804-HYIEZ,0,0.5722579114607128,Medium,Send personalized offer
+8970-ANWXO,0,0.33002649677247653,Medium,Send personalized offer
+4647-MUZON,0,0.7617449787099876,High,Priority retention call + discount
+1945-XISKS,0,0.01658396370506252,Low,Maintain engagement
+9465-RWMXL,1,0.7407166989785989,High,Priority retention call + discount
+9637-CDTKZ,0,0.1617590759317504,Low,Maintain engagement
+1110-KYLGQ,0,0.48333453411998206,Medium,Send personalized offer
+0895-LMRSF,0,0.3678147501286784,Medium,Send personalized offer
+6543-XRMYR,1,0.8123854514334846,High,Priority retention call + discount
+1980-KXVPM,1,0.866904054235574,High,Priority retention call + discount
+0536-ACXIP,0,0.22354463279176112,Low,Maintain engagement
+6726-NNFWD,0,0.11018431037323156,Low,Maintain engagement
+5057-RKGLH,0,0.05030607629227311,Low,Maintain engagement
+7017-VFULY,0,0.3799946971159309,Medium,Send personalized offer
+5204-HMGYF,0,0.12323321382025054,Low,Maintain engagement
+1550-LOAHA,1,0.5173834085982587,Medium,Send personalized offer
+4137-JOPHL,0,0.15878053012144824,Low,Maintain engagement
+9227-LUNBG,1,0.7856555741857205,High,Priority retention call + discount
+8033-VCZGH,0,0.5501220230272679,Medium,Send personalized offer
+1965-DDBWU,1,0.6987372698131763,High,Priority retention call + discount
+7277-OZCGZ,0,0.6344607857317082,High,Priority retention call + discount
+1705-GUHPV,0,0.02321130112490888,Low,Maintain engagement
+0684-AOSIH,1,0.9497317909039823,High,Priority retention call + discount
+3173-NVMPX,0,0.4912569340584108,Medium,Send personalized offer
+7005-CCBKV,1,0.8526220033260854,High,Priority retention call + discount
+9777-IQHWP,0,0.1104412333788497,Low,Maintain engagement
+4302-ZYFEL,0,0.045440158951629187,Low,Maintain engagement
+9430-NKQLY,0,0.024155517200688755,Low,Maintain engagement
+9135-HSWOC,0,0.021146389696885214,Low,Maintain engagement
+4086-ATNFV,0,0.10700815406650863,Low,Maintain engagement
+4227-OJHAL,0,0.11499172495930711,Low,Maintain engagement
+0096-BXERS,0,0.6878922016856615,High,Priority retention call + discount
+3011-WQKSZ,0,0.2795022784338089,Low,Maintain engagement
+1567-DSCIC,1,0.8467093605727042,High,Priority retention call + discount
+8495-PRWFH,0,0.3876149138353836,Medium,Send personalized offer
+1087-UDSIH,1,0.4503188581973655,Medium,Send personalized offer
+4283-FUTGF,1,0.8109833992229123,High,Priority retention call + discount
+3229-USWAR,0,0.17138966936833264,Low,Maintain engagement
+8728-SKJLR,0,0.49461133851397143,Medium,Send personalized offer
+5996-NRVXR,0,0.28364023487638224,Low,Maintain engagement
+6542-LWGXJ,0,0.6949475490117528,High,Priority retention call + discount
+4512-ZUIYL,1,0.7819137870692994,High,Priority retention call + discount
+4750-ZRXIU,1,0.9340367220611451,High,Priority retention call + discount
+5820-PTRYM,0,0.1223650767830344,Low,Maintain engagement
+1265-HVPZB,0,0.09887275791635373,Low,Maintain engagement
+0390-DCFDQ,1,0.905684581987502,High,Priority retention call + discount
+3569-EDBPQ,0,0.6196668909509544,High,Priority retention call + discount
+9972-NKTFD,0,0.19913201457703206,Low,Maintain engagement
+7571-YXDAD,1,0.8509869647205066,High,Priority retention call + discount
+6445-TNRXS,0,0.13656470511803798,Low,Maintain engagement
+7032-LMBHI,0,0.14992069890553464,Low,Maintain engagement
+0004-TLHLJ,1,0.8875836563615481,High,Priority retention call + discount
+0866-QLSIR,1,0.14392350372147586,Low,Maintain engagement
+0422-UXFAP,0,0.6649031362583568,High,Priority retention call + discount
+2150-OEGBV,0,0.07834042466558516,Low,Maintain engagement
+3571-DPYUH,0,0.309646079892797,Medium,Send personalized offer
+0685-MLYYM,1,0.856408269153564,High,Priority retention call + discount
+7054-LGEQW,1,0.649234631440812,High,Priority retention call + discount
+6164-HAQTX,0,0.0355567444646719,Low,Maintain engagement
+8938-UMKPI,1,0.7022389335126528,High,Priority retention call + discount
+7124-UGSUR,1,0.49677434058032316,Medium,Send personalized offer
+9378-FXTIZ,1,0.33190365886713696,Medium,Send personalized offer
+9274-CNFMO,1,0.8824665410043737,High,Priority retention call + discount
+8445-DNBAE,0,0.8223355210365082,High,Priority retention call + discount
+1956-YIFGE,0,0.5202981356054484,Medium,Send personalized offer
+9286-DOJGF,1,0.6237132413685249,High,Priority retention call + discount
+7748-UMTRK,0,0.7453018916362933,High,Priority retention call + discount
+7129-ACFOG,0,0.675034097554439,High,Priority retention call + discount
+1471-GIQKQ,0,0.6909684191908136,High,Priority retention call + discount
+3487-EARAT,0,0.052187398533421386,Low,Maintain engagement
+5709-LVOEQ,0,0.24152323746925994,Low,Maintain engagement
+1895-QTKDO,0,0.6568002439383327,High,Priority retention call + discount
+6434-TTGJP,0,0.12199141500667673,Low,Maintain engagement
+3923-CSIHK,1,0.6237659236060163,High,Priority retention call + discount
+6029-CSMJE,0,0.550668694820042,Medium,Send personalized offer
+4323-SADQS,1,0.5127250065055199,Medium,Send personalized offer
+0794-YVSGE,0,0.01257098265074522,Low,Maintain engagement
+2025-JKFWI,1,0.7735149505145441,High,Priority retention call + discount
+8292-ITGYJ,0,0.035307199397801615,Low,Maintain engagement
+3207-OYBWH,1,0.6304688384535766,High,Priority retention call + discount
+1699-UOTXU,0,0.037514888036786785,Low,Maintain engagement
+8590-OHDIW,0,0.05402329307245034,Low,Maintain engagement
+6304-IJFSQ,1,0.6521366019806967,High,Priority retention call + discount
+6825-UYPFK,1,0.565412852421536,Medium,Send personalized offer
+0788-DXBFY,0,0.08310589958374713,Low,Maintain engagement
+6137-NICCO,0,0.86259190788871,High,Priority retention call + discount
+0921-OHLVP,0,0.7739498878867113,High,Priority retention call + discount
+5356-KZCKT,0,0.03697246253648735,Low,Maintain engagement
+5296-BFCYD,0,0.027193627788194112,Low,Maintain engagement
+6473-ULUHT,0,0.43869138239701344,Medium,Send personalized offer
+4121-AGSIN,0,0.07391583329803073,Low,Maintain engagement
+2308-STERM,0,0.3420432360553559,Medium,Send personalized offer
+8129-GMVGI,0,0.017606615134727492,Low,Maintain engagement
+4184-VODJZ,0,0.4106677162530855,Medium,Send personalized offer
+8739-XNIKG,0,0.9207785554813631,High,Priority retention call + discount
+2606-RMDHZ,1,0.6555577634002121,High,Priority retention call + discount
+2839-RFSQE,1,0.38016997167620187,Medium,Send personalized offer
+2907-ILJBN,0,0.11103997358459812,Low,Maintain engagement
+0410-IPFTY,0,0.5804693925892385,Medium,Send personalized offer
+2001-EWBQU,0,0.24388320433391014,Low,Maintain engagement
+3251-YMVWZ,0,0.07220525465691464,Low,Maintain engagement
+9717-QEBGU,0,0.8914711003840138,High,Priority retention call + discount
+6319-IEJWJ,1,0.8025121912007257,High,Priority retention call + discount
+6919-ELBGL,0,0.15250199823866595,Low,Maintain engagement
+9586-JGQKH,0,0.1985954268922107,Low,Maintain engagement
+7861-UVUFT,1,0.7822863690775644,High,Priority retention call + discount
+9298-WGMRW,0,0.14553518864358195,Low,Maintain engagement
+8241-JUIQO,0,0.04150197163085559,Low,Maintain engagement
+3239-TPHPZ,0,0.1047938184317481,Low,Maintain engagement
+4067-HLYQI,0,0.5073654207162692,Medium,Send personalized offer
+2129-ALKBS,0,0.2275255864805751,Low,Maintain engagement
+2294-DMMUS,0,0.4210823674599759,Medium,Send personalized offer
+5666-MBJPT,0,0.0311062965584785,Low,Maintain engagement
+9701-CDXHR,0,0.399815049769088,Medium,Send personalized offer
+1493-AMTIE,1,0.49506822220550856,Medium,Send personalized offer
+3237-AJGEH,1,0.622071866396294,High,Priority retention call + discount
+9927-DSWDF,0,0.7131092106440279,High,Priority retention call + discount
+1470-PSXNM,0,0.49225992054783724,Medium,Send personalized offer
+5402-HTOTQ,0,0.45808369746661115,Medium,Send personalized offer
+9115-YQHGA,0,0.28023599245028347,Low,Maintain engagement
+9906-NHHVC,0,0.13244323089848586,Low,Maintain engagement
+6248-BSHKG,0,0.03946386568505142,Low,Maintain engagement
+1776-SPBWV,0,0.07956603510273717,Low,Maintain engagement
+1360-XFJMR,0,0.38108505273828003,Medium,Send personalized offer
+4860-YZGZM,0,0.32943581449300674,Medium,Send personalized offer
+1257-SXUXQ,0,0.3370911331428731,Medium,Send personalized offer
+6331-LWDTQ,1,0.6862696207333429,High,Priority retention call + discount
+4674-HGNUA,0,0.039162574641881664,Low,Maintain engagement
+8752-STIVR,1,0.9088229771264456,High,Priority retention call + discount
+8696-JKZNU,1,0.6896432993969034,High,Priority retention call + discount
+8590-YFFQO,0,0.019309211190539816,Low,Maintain engagement
+0254-KCJGT,0,0.14775366093062425,Low,Maintain engagement
+2843-CQMEG,0,0.3375597391093014,Medium,Send personalized offer
+4304-TSPVK,0,0.11451648076185729,Low,Maintain engagement
+1852-XEMDW,0,0.2861168542238164,Low,Maintain engagement
+5313-FPXWG,0,0.10235658056572823,Low,Maintain engagement
+6729-GDNGC,0,0.6371597062792409,High,Priority retention call + discount
+5281-BUZGT,1,0.6964132720136563,High,Priority retention call + discount
+6681-ZSEXG,0,0.053316140316241545,Low,Maintain engagement
+9962-BFPDU,0,0.37006299840056234,Medium,Send personalized offer
+6184-DYUOB,0,0.46943954203187976,Medium,Send personalized offer
+6773-LQTVT,0,0.4046328206379856,Medium,Send personalized offer
+6297-NOOPG,0,0.24583382877267285,Low,Maintain engagement
+0689-NKYLF,1,0.8119420115861854,High,Priority retention call + discount
+9279-CJEOJ,0,0.8220410113337551,High,Priority retention call + discount
+1431-AIDJQ,0,0.0643823803231995,Low,Maintain engagement
+9097-ZUBYC,0,0.2985114955395267,Low,Maintain engagement
+3887-PBQAO,0,0.08040375814743593,Low,Maintain engagement
+0297-RBCSG,0,0.23162688420374775,Low,Maintain engagement
+3750-CKVKH,1,0.9134661025596924,High,Priority retention call + discount
+3413-CSSTH,0,0.3750308028926763,Medium,Send personalized offer
+3244-DCJWY,1,0.9164056047156601,High,Priority retention call + discount
+4695-VADHF,1,0.5147738878734811,Medium,Send personalized offer
+1077-HUUJM,0,0.7596400524124374,High,Priority retention call + discount
+3978-YNKDD,0,0.031408133533523286,Low,Maintain engagement
+3115-CZMZD,0,0.034403545048338154,Low,Maintain engagement
+8701-DGLVH,0,0.023092400668020388,Low,Maintain engagement
+7971-HLVXI,0,0.17972444662596024,Low,Maintain engagement
+3795-GWTRD,0,0.023112531371505103,Low,Maintain engagement
+8903-XEBGX,0,0.8035704018613341,High,Priority retention call + discount
+2746-DIJLO,0,0.16353337748397445,Low,Maintain engagement
+7369-TRPFD,0,0.11252488925969775,Low,Maintain engagement
+5727-MYATE,0,0.05532338590341846,Low,Maintain engagement
+7504-UWHNB,0,0.5858475495398067,Medium,Send personalized offer
+7892-POOKP,1,0.7501429687453925,High,Priority retention call + discount
+8058-DMYRU,0,0.7056465308678493,High,Priority retention call + discount
+6234-RAAPL,0,0.06529286241177641,Low,Maintain engagement
+2758-RNWXS,0,0.351759031323451,Medium,Send personalized offer
+3982-JGSFD,0,0.0922126241371016,Low,Maintain engagement
+9692-TUSXH,1,0.7275317896552468,High,Priority retention call + discount
+3466-RITXD,0,0.6403452903425856,High,Priority retention call + discount
+4631-OACRM,1,0.8297900585642555,High,Priority retention call + discount
+9685-WKZGT,1,0.812150781023423,High,Priority retention call + discount
+8727-XDPUD,0,0.11684673669046171,Low,Maintain engagement
+3420-YJLQT,0,0.8798197288047792,High,Priority retention call + discount
+5630-AHZIL,0,0.5750087386039686,Medium,Send personalized offer
+3679-XASPY,0,0.4567966533683044,Medium,Send personalized offer
+3649-JPUGY,0,0.07484939256921837,Low,Maintain engagement
+2452-KDRRH,0,0.694961124435347,High,Priority retention call + discount
+4547-LYTDD,1,0.7038840852846607,High,Priority retention call + discount
+0730-KOAVE,0,0.633484804500163,High,Priority retention call + discount
+7641-TQFHN,0,0.17066597213230852,Low,Maintain engagement
+2293-IJWPS,0,0.5098964572144994,Medium,Send personalized offer
+7488-MXJIV,1,0.9315086126748127,High,Priority retention call + discount
+4190-MFLUW,1,0.2988955919891527,Low,Maintain engagement
+5966-EMAZU,0,0.3661199198373065,Medium,Send personalized offer
+5951-AOFIH,0,0.3293969794912834,Medium,Send personalized offer
+4530-NDRKU,0,0.09860998840860852,Low,Maintain engagement
+8739-WWKDU,1,0.786839139226407,High,Priority retention call + discount
+2155-AMQRX,0,0.3335738712106829,Medium,Send personalized offer
+1090-ESELR,0,0.0690684419931583,Low,Maintain engagement
+8132-YPVBX,0,0.8165565663653426,High,Priority retention call + discount
+0868-VJRDR,0,0.13560125285648586,Low,Maintain engagement
+1709-EJDOX,0,0.01823229226924058,Low,Maintain engagement
+5505-OVWQW,0,0.09867984701998231,Low,Maintain engagement
+9445-SZLCH,1,0.5677545209871974,Medium,Send personalized offer
+6340-DACFT,0,0.01897203601743244,Low,Maintain engagement
+0997-YTLNY,0,0.2136551696675478,Low,Maintain engagement
+5022-JNQEQ,0,0.6830726421054228,High,Priority retention call + discount
+6383-ZTSIW,0,0.33734959123860325,Medium,Send personalized offer
+2761-OCIAX,1,0.8831771617084921,High,Priority retention call + discount
+0397-ZXWQF,0,0.015571527566697618,Low,Maintain engagement
+2573-GYRUU,0,0.6858223354532711,High,Priority retention call + discount
+4940-KHCWD,0,0.03524608368505545,Low,Maintain engagement
+8699-ASUFO,1,0.8214072902589784,High,Priority retention call + discount
+9534-NSXEM,0,0.10549373068735891,Low,Maintain engagement
+5651-YLPRD,0,0.606342992589211,High,Priority retention call + discount
+7235-NXZCP,1,0.9041199190147154,High,Priority retention call + discount
+3780-YVMFA,0,0.6208440263676557,High,Priority retention call + discount
+4840-ORQXB,0,0.6877467282535453,High,Priority retention call + discount
+0883-EIBTI,1,0.39711440761407363,Medium,Send personalized offer
+1271-UODNO,0,0.06996448866055002,Low,Maintain engagement
+4640-UHDOS,1,0.4898385506580973,Medium,Send personalized offer
+9412-ARGBX,1,0.10383115270126629,Low,Maintain engagement
+6651-AZVTJ,1,0.7789475996522822,High,Priority retention call + discount
+2990-IAJSV,0,0.04212256853282031,Low,Maintain engagement
+8619-IJNDK,0,0.015506195223721783,Low,Maintain engagement
+0742-LAFQK,0,0.18391851801575673,Low,Maintain engagement
+7239-HZZCX,1,0.4165851151158316,Medium,Send personalized offer
+8821-XNHVZ,1,0.9137315011141474,High,Priority retention call + discount
+3831-YCPUO,0,0.09557253717824814,Low,Maintain engagement
+3893-JRNFS,0,0.38151465566419235,Medium,Send personalized offer
+8580-QVLOC,1,0.04344326003486081,Low,Maintain engagement
+8245-UMPYT,1,0.8755719029665854,High,Priority retention call + discount
+0230-UBYPQ,0,0.08991046273663865,Low,Maintain engagement
+3580-GICBM,0,0.03078470739684905,Low,Maintain engagement
+3292-PBZEJ,0,0.8736099667830179,High,Priority retention call + discount
+0164-XAIRP,0,0.050653379046060626,Low,Maintain engagement
+4090-KPJIP,0,0.9114617255145625,High,Priority retention call + discount
+3365-SAIGS,0,0.7534195445060855,High,Priority retention call + discount
+8160-HOWOX,0,0.7490317270009459,High,Priority retention call + discount
+5380-XPJNZ,0,0.06433119407654714,Low,Maintain engagement
+9107-UKCKY,0,0.32662565294472323,Medium,Send personalized offer
+3982-XWFZQ,1,0.4334169020538435,Medium,Send personalized offer
+6704-UTUKK,0,0.7087975672984973,High,Priority retention call + discount
+2924-KHUVI,0,0.5249338863397262,Medium,Send personalized offer
+2750-BJLSB,0,0.39066455339913647,Medium,Send personalized offer
+8034-RYTVV,0,0.2776595104836136,Low,Maintain engagement
+3594-UVONA,1,0.20404730545840613,Low,Maintain engagement
+5167-ZFFMM,1,0.9381661116710206,High,Priority retention call + discount
+1816-FLZDK,0,0.6511280510712616,High,Priority retention call + discount
+7157-SMCFK,0,0.016047194380707706,Low,Maintain engagement
+0516-UXRMT,0,0.2966979567201758,Low,Maintain engagement
+8993-IZEUX,0,0.6567192753556657,High,Priority retention call + discount
+6845-RGTYS,1,0.6220580949578615,High,Priority retention call + discount
+8212-DJRCH,0,0.7905634217047698,High,Priority retention call + discount
+8593-WHYHV,1,0.9358665714954236,High,Priority retention call + discount
+8573-JGCZW,0,0.13817509268299372,Low,Maintain engagement
+3672-YITQD,1,0.8036942977120809,High,Priority retention call + discount
+5850-BDWCY,0,0.3341488793952886,Medium,Send personalized offer
+6968-MHOMU,0,0.337176136310281,Medium,Send personalized offer
+7623-TRNQN,1,0.6188064492820682,High,Priority retention call + discount
+8695-ARGXZ,0,0.746160732969755,High,Priority retention call + discount
+7134-MJPDY,0,0.41918556315956385,Medium,Send personalized offer
+8873-TMKGR,0,0.08147473691521141,Low,Maintain engagement
+7021-XSNYE,0,0.14601137522813423,Low,Maintain engagement
+0263-FJTQO,0,0.06060357721613233,Low,Maintain engagement
+7520-HQWJU,0,0.16128455733030017,Low,Maintain engagement
+4029-HPFVY,0,0.8277408944057304,High,Priority retention call + discount
+8378-LKJAF,0,0.6967142865030944,High,Priority retention call + discount
+3426-NIYYL,1,0.5084145320189891,Medium,Send personalized offer
+9351-HXDMR,0,0.14550004726074592,Low,Maintain engagement
+1310-QRITU,0,0.5709518418318891,Medium,Send personalized offer
+6910-HADCM,1,0.8950299182269906,High,Priority retention call + discount
+0962-CQPWQ,0,0.014621995288903051,Low,Maintain engagement
+5271-YNWVR,1,0.18761268527630456,Low,Maintain engagement
+1023-BQXZE,0,0.07408757489826127,Low,Maintain engagement
+1475-VWVDO,0,0.8222533077307282,High,Priority retention call + discount
+2202-CUYXZ,1,0.950797245394321,High,Priority retention call + discount
+6166-ILMNY,1,0.7938628208971188,High,Priority retention call + discount
+6164-HXUGH,0,0.3071508532215768,Medium,Send personalized offer
+4301-VVZKA,0,0.7830920847634418,High,Priority retention call + discount
+4016-BJKTZ,0,0.28905290274496764,Low,Maintain engagement
+2027-FECZV,1,0.8705164080682904,High,Priority retention call + discount
+0909-SELIE,0,0.0597117250567702,Low,Maintain engagement
+5461-QKNTN,0,0.6938916457525185,High,Priority retention call + discount
+6322-HRPFA,0,0.11348349750331639,Low,Maintain engagement
+1320-HTRDR,1,0.9068382319937776,High,Priority retention call + discount
+7363-QTBIW,0,0.826779239027614,High,Priority retention call + discount
+8840-DQLGN,1,0.5319199904315547,Medium,Send personalized offer
+7401-JIXNM,0,0.04882982071957056,Low,Maintain engagement
+7529-ZDFXI,0,0.7251007160631927,High,Priority retention call + discount
+1452-KIOVK,0,0.6639414288345775,High,Priority retention call + discount
+0778-NELLA,1,0.7116248339790181,High,Priority retention call + discount
+9629-NHXFW,0,0.4582956805670951,Medium,Send personalized offer
+0719-SYFRB,1,0.43802207702986823,Medium,Send personalized offer
+1100-DDVRV,0,0.6533026177183586,High,Priority retention call + discount
+8024-XNAFQ,0,0.11806780898606892,Low,Maintain engagement
+3705-PSNGL,1,0.10319818069383943,Low,Maintain engagement
+6527-PZFPV,0,0.10701299374145722,Low,Maintain engagement
+9819-FBNSV,0,0.5641807983764455,Medium,Send personalized offer
+4079-VTGLK,0,0.2605337829200264,Low,Maintain engagement
+0841-NULXI,1,0.8912934085269797,High,Priority retention call + discount
+0531-ZZJWQ,0,0.6877982116696683,High,Priority retention call + discount
+7789-CRUVC,0,0.4021628886702298,Medium,Send personalized offer
+8053-WWDRO,1,0.32520777256522154,Medium,Send personalized offer
+5514-YQENT,0,0.17510709185482817,Low,Maintain engagement
+9221-OTIVJ,1,0.8504117632061017,High,Priority retention call + discount
+9720-JJJOR,0,0.09420190269494545,Low,Maintain engagement
+7997-EASSD,0,0.2570929601720628,Low,Maintain engagement
+6946-LMSQS,1,0.6110668235947156,High,Priority retention call + discount
+7159-NOKYQ,0,0.25300748195349765,Low,Maintain engagement
+9917-KWRBE,0,0.14439478993677887,Low,Maintain engagement
+0013-MHZWF,0,0.5469304464304602,Medium,Send personalized offer
+3865-ZFZIB,0,0.04389103527492034,Low,Maintain engagement
+2480-EJWYP,0,0.5403579084169979,Medium,Send personalized offer
+7634-HLQJR,0,0.01739292995235025,Low,Maintain engagement
+6481-ESCNL,0,0.7015605694852839,High,Priority retention call + discount
+5696-CEIQJ,0,0.1015256127136743,Low,Maintain engagement
+9103-TCIHJ,1,0.3705990383332471,Medium,Send personalized offer
+1767-CJKBA,0,0.022467493459065253,Low,Maintain engagement
+2798-NYLMZ,0,0.16887884584271318,Low,Maintain engagement
+5650-YLIBA,0,0.6325217131932674,High,Priority retention call + discount
+9945-PSVIP,0,0.04673724637701585,Low,Maintain engagement
+9537-VHDTA,0,0.5030279776734211,Medium,Send personalized offer
+3976-NLDEZ,0,0.4116327122516624,Medium,Send personalized offer
+1379-FRVEB,0,0.7387508864125071,High,Priority retention call + discount
+3338-CVVEH,0,0.8549801873774177,High,Priority retention call + discount
+0979-MOZQI,0,0.08457683122214806,Low,Maintain engagement
+6969-MVBAI,0,0.8869921516065267,High,Priority retention call + discount
+2195-VVRJF,0,0.46849628526928394,Medium,Send personalized offer
+6680-WKXRZ,1,0.832434066191952,High,Priority retention call + discount
+0839-JTCUD,0,0.04141889759362417,Low,Maintain engagement
+0440-QEXBZ,0,0.349196349077008,Medium,Send personalized offer
+4445-ZJNMU,0,0.8356488414078832,High,Priority retention call + discount
+4658-HCOHW,1,0.7191427303008361,High,Priority retention call + discount
+8713-IGZSO,0,0.44715926490570546,Medium,Send personalized offer
+2432-TFSMK,0,0.6071333562801119,High,Priority retention call + discount
+7998-WNZEM,0,0.033707893603111015,Low,Maintain engagement
+2541-YGPKE,0,0.07967553266900756,Low,Maintain engagement
+5236-PERKL,1,0.1911620844954861,Low,Maintain engagement
+0134-XWXCE,0,0.15858026696978444,Low,Maintain engagement
+8033-ATFAS,0,0.34096079202191887,Medium,Send personalized offer
+1894-IGFSG,1,0.7617001700258825,High,Priority retention call + discount
+6128-AQBMT,0,0.640193720644921,High,Priority retention call + discount
+3197-ARFOY,0,0.6361379312133135,High,Priority retention call + discount
+4667-OHGKG,1,0.5057822873013733,Medium,Send personalized offer
+5696-JVVQY,0,0.049778579534333324,Low,Maintain engagement
+0524-IAVZO,1,0.7740725344046437,High,Priority retention call + discount
+8345-MVDYC,0,0.044117440619894734,Low,Maintain engagement
+4360-PNRQB,0,0.6787442070365307,High,Priority retention call + discount
+4903-UYAVB,1,0.344765318286217,Medium,Send personalized offer
+8735-SDUFN,0,0.023498070485288344,Low,Maintain engagement
+1568-BEKZM,0,0.05653135390048871,Low,Maintain engagement
+9357-UJRUN,0,0.2622775858732742,Low,Maintain engagement
+2800-QQUSO,0,0.7106973406914463,High,Priority retention call + discount
+1862-QRWPE,0,0.016650478899732375,Low,Maintain engagement
+7337-CINUD,0,0.05249185867076123,Low,Maintain engagement
+9313-CDOGY,0,0.15416939670943336,Low,Maintain engagement
+9308-ANMVE,0,0.2094069831342624,Low,Maintain engagement
+2087-QAREY,0,0.36021822225548694,Medium,Send personalized offer
+0327-WFZSY,0,0.5525845192366294,Medium,Send personalized offer
+0616-ATFGB,1,0.8248713493268383,High,Priority retention call + discount
+7502-BNYGS,0,0.3713278842621615,Medium,Send personalized offer
+5196-SGOAK,1,0.9037888513578509,High,Priority retention call + discount
+5419-CONWX,1,0.8737434233364957,High,Priority retention call + discount
+4587-VVTOX,1,0.9433626327198413,High,Priority retention call + discount
+4524-QCSSM,0,0.442636921790985,Medium,Send personalized offer
+3090-QFUVD,0,0.3990145118039519,Medium,Send personalized offer
+1063-DHQJF,0,0.08703516391820794,Low,Maintain engagement
+7925-PNRGI,0,0.1756506197628804,Low,Maintain engagement
+5889-JTMUL,1,0.7075899988328103,High,Priority retention call + discount
+4256-ZWTZI,0,0.447997736793951,Medium,Send personalized offer
+9909-DFRJA,0,0.3085330231812706,Medium,Send personalized offer
+9968-FFVVH,0,0.07509872795017529,Low,Maintain engagement
+5816-SCGFC,0,0.45843461443038885,Medium,Send personalized offer
+9313-QOLTZ,0,0.1590270131353007,Low,Maintain engagement
+3069-SSVSN,0,0.5447442259590048,Medium,Send personalized offer
+6198-PNNSZ,0,0.333399332486635,Medium,Send personalized offer
+8361-LTMKD,1,0.8846759533553492,High,Priority retention call + discount
+2236-HILPA,0,0.01569792557312681,Low,Maintain engagement
+2770-NSVDG,0,0.5402090593946599,Medium,Send personalized offer
+5537-UXXVS,0,0.18933271360746362,Low,Maintain engagement
+6898-MDLZW,0,0.4007211612834169,Medium,Send personalized offer
+1697-NVVGY,0,0.32643932243404844,Medium,Send personalized offer
+3646-ITDGM,0,0.02019192573696824,Low,Maintain engagement
+4396-KLSEH,0,0.5548312053670651,Medium,Send personalized offer
+6474-FVJLC,1,0.9507253019558032,High,Priority retention call + discount
+0040-HALCW,0,0.018616055851917078,Low,Maintain engagement
+2971-SGAFL,0,0.6616027555820667,High,Priority retention call + discount
+6664-FPDAC,1,0.5140168870882491,Medium,Send personalized offer
+8028-PNXHQ,0,0.031228100182074767,Low,Maintain engagement
+9367-TCUYN,0,0.2396243167167279,Low,Maintain engagement
+6559-RAKOZ,0,0.5170715458317658,Medium,Send personalized offer
+9142-XMYJH,0,0.14264434708378193,Low,Maintain engagement
+3563-SVYLG,0,0.01706360795758129,Low,Maintain engagement
+1444-VVSGW,1,0.25159616222237235,Low,Maintain engagement
+3454-JFUBC,0,0.025966304908628862,Low,Maintain engagement
+0301-FIDRB,0,0.0561758714950904,Low,Maintain engagement
+4018-PPNDW,0,0.029805453155750627,Low,Maintain engagement
+3339-EAQNV,0,0.46828422540387854,Medium,Send personalized offer
+4229-CZMLL,1,0.8788143242932084,High,Priority retention call + discount
+6598-RFFVI,1,0.24902786592244833,Low,Maintain engagement
+9822-WMWVG,0,0.5634866465775573,Medium,Send personalized offer
+0373-AIVNJ,0,0.25553456018486254,Low,Maintain engagement
+9067-SQTNS,0,0.04710161918737939,Low,Maintain engagement
+0447-BEMNG,1,0.3359582604612853,Medium,Send personalized offer
+5343-SGUBI,0,0.31510505365944974,Medium,Send personalized offer
+6332-FBZRI,0,0.07842668033793332,Low,Maintain engagement
+5324-KTGCG,0,0.051326729586748165,Low,Maintain engagement
+0258-NOKBL,0,0.8651651054099762,High,Priority retention call + discount
+6366-XIVKZ,0,0.39585032569487577,Medium,Send personalized offer
+1809-DMJHQ,1,0.4994385066272072,Medium,Send personalized offer
+2860-RANUS,1,0.7787614581951608,High,Priority retention call + discount
+1741-WTPON,0,0.11709562912369281,Low,Maintain engagement
+3694-GLTJM,0,0.4328932182215173,Medium,Send personalized offer
+2984-RGEYA,0,0.012827499994747407,Low,Maintain engagement
+3331-HQDTW,1,0.6640572446632358,High,Priority retention call + discount
+7912-SYRQT,1,0.7613506795864362,High,Priority retention call + discount
+7279-BUYWN,1,0.6995622164676999,High,Priority retention call + discount
+3858-VOBET,1,0.7457549715667076,High,Priority retention call + discount
+0899-LIIBW,0,0.7539363312796599,High,Priority retention call + discount
+5609-IMCGG,0,0.6022450903699773,High,Priority retention call + discount
+3750-YHRYO,0,0.126981846631042,Low,Maintain engagement
+5228-EXCET,1,0.8091929916214622,High,Priority retention call + discount
+8915-NNTRC,0,0.1325501548027956,Low,Maintain engagement
+5334-AFQJB,0,0.032649630271360926,Low,Maintain engagement
+1319-YLZJG,0,0.7104244041419524,High,Priority retention call + discount
+6877-LGWXO,1,0.7643256375320121,High,Priority retention call + discount
+2812-REYAT,0,0.0821111638669601,Low,Maintain engagement
+2446-ZKVAF,0,0.34284925216084494,Medium,Send personalized offer
+9732-KPKBW,1,0.6974374562822909,High,Priority retention call + discount
+1187-WILMM,0,0.0653659034338558,Low,Maintain engagement
+8098-TDCBU,0,0.04475530374948584,Low,Maintain engagement
+1143-NMNQJ,1,0.9469979246460907,High,Priority retention call + discount
+2987-BJXIK,0,0.054602514167582016,Low,Maintain engagement
+4648-YPBTM,0,0.08516723539173163,Low,Maintain engagement
+0376-YMCJC,1,0.7516808060985172,High,Priority retention call + discount
+0823-HSCDJ,1,0.6125504200359587,High,Priority retention call + discount
+9374-YOLBJ,0,0.45798864803067435,Medium,Send personalized offer
+5062-CJJKH,0,0.12685271423251582,Low,Maintain engagement
+3957-SQXML,0,0.03145825993722505,Low,Maintain engagement
+6096-EGVTU,0,0.048179854430525505,Low,Maintain engagement
+6777-TGHTM,1,0.39499917428874315,Medium,Send personalized offer
+2398-YPMUR,1,0.7614712256574274,High,Priority retention call + discount
+1436-ZMJAN,0,0.6940470052904384,High,Priority retention call + discount
+9385-NXKDA,0,0.08166403542702724,Low,Maintain engagement
+5445-PZWGX,1,0.25322565664950614,Low,Maintain engagement
+3902-MIVLE,0,0.036494587310284377,Low,Maintain engagement
+9114-AAFQH,0,0.21977949331294308,Low,Maintain engagement
+9611-CTWIH,1,0.9472449024488662,High,Priority retention call + discount
+6654-QGBZZ,0,0.40484216994985445,Medium,Send personalized offer
+2388-LAESQ,0,0.16819869449919572,Low,Maintain engagement
+2604-IJPDU,0,0.6085791424607422,High,Priority retention call + discount
+4160-AMJTL,1,0.36065603512398986,Medium,Send personalized offer
+6158-HDPXZ,0,0.7274157489340753,High,Priority retention call + discount
+5468-BPMMO,0,0.15649685244027314,Low,Maintain engagement
+1833-TCXKK,0,0.65061631713447,High,Priority retention call + discount
+5803-NQJZO,0,0.038309752981299405,Low,Maintain engagement
+8280-MQRQN,1,0.7436728192697626,High,Priority retention call + discount
+7139-JZFVG,0,0.02268492359233935,Low,Maintain engagement
+2230-XTUWL,0,0.018528701741068427,Low,Maintain engagement
+0257-KXZGU,0,0.22636809439035394,Low,Maintain engagement
+7572-KPVKK,0,0.24025095887254236,Low,Maintain engagement
+2169-RRLFW,0,0.01951965952527552,Low,Maintain engagement
+0377-JBKKT,0,0.23811670148498867,Low,Maintain engagement
+8390-FESFV,0,0.0667176161056588,Low,Maintain engagement
+4342-HENTK,1,0.9035139228277931,High,Priority retention call + discount
+4884-ZTHVF,0,0.8067576392048342,High,Priority retention call + discount
+0628-CNQRM,1,0.15771510672202996,Low,Maintain engagement
+2958-NHPPS,0,0.2273289915449861,Low,Maintain engagement
+6692-UDPJC,1,0.7189438483548075,High,Priority retention call + discount
+9674-EHPPG,0,0.04115967074872966,Low,Maintain engagement
+6568-POCUI,0,0.18552104976327277,Low,Maintain engagement
+6661-HBGWL,1,0.7094208151479824,High,Priority retention call + discount
+2335-GSODA,0,0.05923954694336142,Low,Maintain engagement
+9013-AQORL,0,0.26381512321402834,Low,Maintain engagement
+7410-YTJIK,1,0.739480348389354,High,Priority retention call + discount
+0048-LUMLS,0,0.39436521699410043,Medium,Send personalized offer
+9054-FOWNV,0,0.8059480711408978,High,Priority retention call + discount
+2865-TCHJW,1,0.9427413314356856,High,Priority retention call + discount
+6345-FZOQH,0,0.01658281418226463,Low,Maintain engagement
+9715-WZCLW,0,0.2282066891176764,Low,Maintain engagement
+9633-DENPU,0,0.29675933902961615,Low,Maintain engagement
+7130-VTEWQ,1,0.8464963149998718,High,Priority retention call + discount
+4877-TSOFF,0,0.11718756435603198,Low,Maintain engagement
+2254-DLXRI,0,0.907815375465083,High,Priority retention call + discount
+0870-VEMYL,1,0.40213523926381595,Medium,Send personalized offer
+8541-QVFKM,0,0.8173881933795104,High,Priority retention call + discount
+6608-QQLVK,1,0.8104945960366686,High,Priority retention call + discount
+4737-HOBAX,0,0.07247172590778239,Low,Maintain engagement
+0178-CIIKR,0,0.3676946591381561,Medium,Send personalized offer
+4873-ILOLJ,1,0.7956405050558643,High,Priority retention call + discount
+9867-NNXLC,0,0.22315045957339183,Low,Maintain engagement
+2720-FVBQP,0,0.6781667738281764,High,Priority retention call + discount
+2878-DHMIN,0,0.08428875544172583,Low,Maintain engagement
+2227-JRSJX,0,0.6824210386656491,High,Priority retention call + discount
+7198-GLXTC,1,0.9123714006913045,High,Priority retention call + discount
+9820-RMCQV,1,0.32626416392460605,Medium,Send personalized offer
+7879-CGSFV,0,0.33673287113627415,Medium,Send personalized offer
+2514-GINMM,1,0.9480804775774803,High,Priority retention call + discount
+3585-ISXZP,1,0.8196786891679216,High,Priority retention call + discount
+6766-HFKLA,0,0.1852107738461177,Low,Maintain engagement
+7251-LJBQN,0,0.49616823473980826,Medium,Send personalized offer
+7273-TEFQD,1,0.8760645075781555,High,Priority retention call + discount
+9572-WUKSB,0,0.7519167627579283,High,Priority retention call + discount
+7817-BOQPW,1,0.9079013454128011,High,Priority retention call + discount
+6234-PFPXL,0,0.4868061540640792,Medium,Send personalized offer
+9644-UMGQA,0,0.5776857297835467,Medium,Send personalized offer
+7729-XBTWX,0,0.020460468177478694,Low,Maintain engagement
+6821-BUXUX,1,0.7465123710422645,High,Priority retention call + discount
+8380-PEFPE,1,0.9014034912397778,High,Priority retention call + discount
+4706-AXVKM,1,0.8496578291003889,High,Priority retention call + discount
+5025-GOOKI,0,0.2470994731118916,Low,Maintain engagement
+6734-FQAJX,0,0.18058776986369932,Low,Maintain engagement
+4402-FTBXC,0,0.38482407056469753,Medium,Send personalized offer
+4537-CIBHB,0,0.12159828176160285,Low,Maintain engagement
+2108-YKQTY,1,0.5607434749122056,Medium,Send personalized offer
+3948-KXDUF,0,0.028577470568669334,Low,Maintain engagement
+3948-FVVRP,0,0.3242470866842106,Medium,Send personalized offer
+1096-ADRUX,0,0.28097744385330203,Low,Maintain engagement
+8582-KRHPJ,0,0.28336905159829684,Low,Maintain engagement
+4526-EXKKN,0,0.04901529835358693,Low,Maintain engagement
+5975-BAICR,0,0.1597977771757635,Low,Maintain engagement
+4724-WXVWF,0,0.5755128485628743,Medium,Send personalized offer
+2346-LOCWC,0,0.01616526438926512,Low,Maintain engagement
+6685-GBWJZ,0,0.0685059353097363,Low,Maintain engagement
+8914-RBTSB,1,0.652244871153976,High,Priority retention call + discount
+5692-FPTAH,1,0.72671437521854,High,Priority retention call + discount
+1559-DTODC,0,0.5417848427907541,Medium,Send personalized offer
+1400-MMYXY,1,0.9495469113827393,High,Priority retention call + discount
+0265-PSUAE,0,0.5778444773611628,Medium,Send personalized offer
+7398-LXGYX,0,0.48765986783992377,Medium,Send personalized offer
+2609-IAICY,1,0.9369285588896985,High,Priority retention call + discount
+9079-YEXQJ,1,0.5969291655606105,Medium,Send personalized offer
+9944-AEXBM,0,0.7119108762307295,High,Priority retention call + discount
+9372-TXXPS,0,0.02301523029097563,Low,Maintain engagement
+5949-HGVJL,0,0.5003565640779404,Medium,Send personalized offer
+9483-GCPWE,0,0.11681250745984902,Low,Maintain engagement
+6075-QMNRR,0,0.19641143307555928,Low,Maintain engagement
+5893-PYOLZ,0,0.0749466382187381,Low,Maintain engagement
+4693-VWVBO,0,0.44732934441234407,Medium,Send personalized offer
+1678-FYZOW,1,0.9090443642164661,High,Priority retention call + discount
+4003-FUSHP,0,0.3966321886761313,Medium,Send personalized offer
+2277-VWCNI,0,0.6983029577633384,High,Priority retention call + discount
+8785-CJSHH,0,0.7186731659091894,High,Priority retention call + discount
+2892-GESUL,0,0.03897039858048736,Low,Maintain engagement
+0599-XNYDO,0,0.5784291251694321,Medium,Send personalized offer
+3125-RAHBV,0,0.09018621191371401,Low,Maintain engagement
+9814-AOUDH,0,0.02229308916910062,Low,Maintain engagement
+2845-HSJCY,1,0.8237619857345739,High,Priority retention call + discount
+2805-AUFQN,0,0.03459738845671432,Low,Maintain engagement
+2796-UUZZO,0,0.3661416544615141,Medium,Send personalized offer
+4359-INNWN,0,0.09928738671991519,Low,Maintain engagement
+1960-UOTYM,0,0.07457692158928986,Low,Maintain engagement
+1112-CUNAO,1,0.7448892214536716,High,Priority retention call + discount
+9364-YKUVW,0,0.2657506532211423,Low,Maintain engagement
+3027-YNWZU,0,0.023704285803670733,Low,Maintain engagement
+7029-RPUAV,1,0.8649600473010546,High,Priority retention call + discount
+6769-DYBQN,1,0.4933843945212707,Medium,Send personalized offer
+2041-JIJCI,0,0.7613992629949471,High,Priority retention call + discount
+5924-SNGKP,0,0.06446513846119112,Low,Maintain engagement
+0733-VUNUW,1,0.33609114454620365,Medium,Send personalized offer
+4927-WWOOZ,0,0.9542320807219357,High,Priority retention call + discount
+9758-MFWGD,0,0.13202623560724788,Low,Maintain engagement
+9610-WCESF,0,0.05483057598399901,Low,Maintain engagement
+4905-JEFDW,1,0.5822798956515403,Medium,Send personalized offer
+9544-PYPSJ,0,0.541874633434477,Medium,Send personalized offer
+9537-JALFH,0,0.013454579267212668,Low,Maintain engagement
+2985-FMWYF,0,0.8302670586921855,High,Priority retention call + discount
+6993-YCOBK,0,0.21265147367994472,Low,Maintain engagement
+3913-FCUUW,0,0.02706360454102038,Low,Maintain engagement
+9402-ROUMJ,0,0.22835366742865054,Low,Maintain engagement
+5701-GUXDC,0,0.15766053623256673,Low,Maintain engagement
+4277-BWBML,0,0.012884140364688474,Low,Maintain engagement
+4701-AHWMW,1,0.43165934896908853,Medium,Send personalized offer
+7996-BPXHY,0,0.0733642984202711,Low,Maintain engagement
+0379-DJQHR,0,0.037355933420394206,Low,Maintain engagement
+2616-FLVQC,0,0.01785215716228103,Low,Maintain engagement
+3973-SKMLN,0,0.021240430003658387,Low,Maintain engagement
+2159-TURXX,0,0.35594377109262015,Medium,Send personalized offer
+3677-IYRBF,1,0.8273300136478636,High,Priority retention call + discount
+4012-YCFAI,0,0.03102949493839631,Low,Maintain engagement
+5442-BHQNG,0,0.8518916556015218,High,Priority retention call + discount
+7056-IMHCC,1,0.7600650077684692,High,Priority retention call + discount
+9330-DHBFL,0,0.10882355518537587,Low,Maintain engagement
+2911-WDXMV,0,0.6767707575415457,High,Priority retention call + discount
+2203-GHNWN,0,0.6851395774577134,High,Priority retention call + discount
+7677-SJJJK,0,0.1281800395303007,Low,Maintain engagement
+2263-SFSQZ,0,0.03937083243910244,Low,Maintain engagement
+3567-PQTSO,0,0.5394414649508569,Medium,Send personalized offer
+8086-OVPWV,1,0.9187095434267526,High,Priority retention call + discount
+1830-IPXVJ,0,0.014970950602042867,Low,Maintain engagement
+1853-UDXBW,1,0.9090748271730076,High,Priority retention call + discount
+1541-ETJZO,1,0.6659611019629276,High,Priority retention call + discount
+2057-ZBLPD,1,0.8139624038137262,High,Priority retention call + discount
+2187-PKZAY,0,0.7418972966373973,High,Priority retention call + discount
+7036-TYDEC,0,0.19996264991261276,Low,Maintain engagement
+5103-MHMHY,1,0.6041558822518016,High,Priority retention call + discount
+0661-KBKPA,0,0.24016379538500648,Low,Maintain engagement
+8930-XOTDP,0,0.3455754973030672,Medium,Send personalized offer
+2545-EBUPK,0,0.9496002947687381,High,Priority retention call + discount
+4619-EVPHY,0,0.6242071116938741,High,Priority retention call + discount
+9779-DPNEJ,0,0.7234046165568505,High,Priority retention call + discount
+0056-EPFBG,0,0.0838310264160511,Low,Maintain engagement
+4717-GHADL,0,0.11159152366473013,Low,Maintain engagement
+4726-DLWQN,0,0.3578454567111678,Medium,Send personalized offer
+9588-YRFHY,0,0.03333586433670441,Low,Maintain engagement
+3966-HRMZA,0,0.8367255658425462,High,Priority retention call + discount
+1989-PRJHP,1,0.7772793724782817,High,Priority retention call + discount
+3325-FUYCG,1,0.4794904509857558,Medium,Send personalized offer
+6497-TILVL,0,0.30138255372928896,Medium,Send personalized offer
+2632-TACXW,0,0.025925304503376777,Low,Maintain engagement
+6258-NGCNG,0,0.337914160594616,Medium,Send personalized offer
+3312-ZWLGF,0,0.6643472623250588,High,Priority retention call + discount
+1131-ALZWV,0,0.11126883925213132,Low,Maintain engagement
+8626-PTQGE,0,0.06953961700554157,Low,Maintain engagement
+0562-FGDCR,0,0.027090350706298453,Low,Maintain engagement
+5671-RQRLP,0,0.16076976171177465,Low,Maintain engagement
+1936-CZAKF,0,0.1222053377119509,Low,Maintain engagement
+5144-TVGLP,0,0.7725479360929669,High,Priority retention call + discount
+9480-BQJEI,0,0.33355708107422455,Medium,Send personalized offer
+9473-CBZOP,0,0.14024481592023486,Low,Maintain engagement
+7531-GQHME,0,0.23156041762643934,Low,Maintain engagement
+0164-APGRB,0,0.18280675937906915,Low,Maintain engagement
+5052-PNLOS,1,0.9188489915484133,High,Priority retention call + discount
+6682-QJDGB,1,0.18778721994047382,Low,Maintain engagement
+9058-CBREO,1,0.7579687552844386,High,Priority retention call + discount
+3320-VEOYC,0,0.9028141552519597,High,Priority retention call + discount
+9070-BCKQP,0,0.1528129289495769,Low,Maintain engagement
+6899-PPEEA,1,0.8197015858988823,High,Priority retention call + discount
+3594-IVHJZ,0,0.4582081102532577,Medium,Send personalized offer
+4237-CLSMM,0,0.405960885434659,Medium,Send personalized offer
+3680-CTHUH,0,0.33059374210065157,Medium,Send personalized offer
+0057-QBUQH,0,0.050035105748175344,Low,Maintain engagement
+7764-BDPEE,0,0.3281108564636063,Medium,Send personalized offer
+7167-PCEYD,0,0.023356365440483452,Low,Maintain engagement
+5181-OABFK,0,0.03411185536126711,Low,Maintain engagement
+0679-IDSTG,1,0.9199958951043841,High,Priority retention call + discount
+3063-QFSZL,1,0.8561511608283008,High,Priority retention call + discount
+2070-FNEXE,1,0.5962037756475467,Medium,Send personalized offer
+2788-CJQAQ,0,0.11300471141494127,Low,Maintain engagement
+1545-JFUML,0,0.19290661064992984,Low,Maintain engagement
+1264-FUHCX,0,0.2619032779833859,Low,Maintain engagement
+3400-ESFUW,1,0.023698825218380862,Low,Maintain engagement
+2178-PMGCJ,0,0.6203851546137173,High,Priority retention call + discount
+7216-KAOID,0,0.05250780604830694,Low,Maintain engagement
+2988-PLAHS,0,0.7200493657512632,High,Priority retention call + discount
+3729-OWRVL,0,0.24695132450423268,Low,Maintain engagement
+9878-TNQGW,1,0.923952686305556,High,Priority retention call + discount
+6814-ZPWFQ,0,0.08658173954369239,Low,Maintain engagement
+2969-WGHQO,0,0.28184136074854627,Low,Maintain engagement
+8338-QIUNR,0,0.028887629870066652,Low,Maintain engagement
+2954-PIBKO,0,0.032980869271664874,Low,Maintain engagement
+0727-BNRLG,0,0.15086906750764292,Low,Maintain engagement
+6890-PFRQX,0,0.3931799519283427,Medium,Send personalized offer
+9512-UIBFX,1,0.6560664445735617,High,Priority retention call + discount
+8869-TORSS,1,0.07860566819048112,Low,Maintain engagement
+0310-VQXAM,0,0.25830092708287156,Low,Maintain engagement
+1236-WFCDV,1,0.7529054576118989,High,Priority retention call + discount
+7629-WIXZF,0,0.43980569847203327,Medium,Send personalized offer
+3094-JOJAI,0,0.6099574486318463,High,Priority retention call + discount
+2834-JKOOW,0,0.16098242326649642,Low,Maintain engagement
+8457-XIGKN,0,0.2522156334504153,Low,Maintain engagement
+8393-DLHGA,1,0.6984188007006137,High,Priority retention call + discount
+9700-ISPUP,0,0.5425257166663087,Medium,Send personalized offer
+3519-ZKXGG,1,0.8913118059470869,High,Priority retention call + discount
+2369-FEVNO,0,0.5021803884089971,Medium,Send personalized offer
+5201-USSQZ,0,0.4810224758498243,Medium,Send personalized offer
+6119-SPUDB,0,0.0421649965897199,Low,Maintain engagement
+8166-ORCHU,0,0.4324483296534285,Medium,Send personalized offer
+2325-ZUSFD,1,0.14635368431412943,Low,Maintain engagement
+6705-LXORM,0,0.8595188873396475,High,Priority retention call + discount
+8623-ULFNQ,0,0.5505684092477129,Medium,Send personalized offer
+2525-GVKQU,0,0.01886833262031735,Low,Maintain engagement
+2972-YDYUW,0,0.3374222152231931,Medium,Send personalized offer
+8266-VBFQL,0,0.870917138697519,High,Priority retention call + discount
+7375-WMVMT,0,0.13179832264323946,Low,Maintain engagement
+0637-YLETY,1,0.7156779350870281,High,Priority retention call + discount
+9254-RBFON,1,0.37778013942107436,Medium,Send personalized offer
+8173-RXAYP,0,0.0326901477986857,Low,Maintain engagement
+3313-QKNKB,1,0.45224736850583613,Medium,Send personalized offer
+1729-VLAZJ,0,0.17550432365683968,Low,Maintain engagement
+7250-EQKIY,1,0.6394550986437594,High,Priority retention call + discount
+0082-OQIQY,0,0.7238561301653283,High,Priority retention call + discount
+1395-OFUWC,0,0.24488619086047678,Low,Maintain engagement
+6372-RFVNS,1,0.929326056444999,High,Priority retention call + discount
+6077-BDPXA,0,0.8837941570502783,High,Priority retention call + discount
+8782-NUUOL,0,0.10070112304372238,Low,Maintain engagement
+9330-VOFSZ,0,0.2120453774516431,Low,Maintain engagement
+3442-ZHHCC,0,0.14146255489127063,Low,Maintain engagement
+8587-XYZSF,0,0.02548676931112837,Low,Maintain engagement
+9950-MTGYX,0,0.04232605365503486,Low,Maintain engagement
+6614-YOLAC,0,0.043310343167487365,Low,Maintain engagement
+1036-GUDCL,0,0.22463044737064233,Low,Maintain engagement
+0201-MIBOL,0,0.2148535923066722,Low,Maintain engagement
+2665-NPTGL,0,0.826826954436545,High,Priority retention call + discount
+1024-GUALD,1,0.8446330835822418,High,Priority retention call + discount
+2511-MORQY,0,0.1516359568452799,Low,Maintain engagement
+2866-IKBTM,0,0.4068689216409302,Medium,Send personalized offer
+2885-HIJDH,0,0.037965356762915306,Low,Maintain engagement
+8909-BOLNL,0,0.22770090543418922,Low,Maintain engagement
+5482-NUPNA,1,0.4442092313983768,Medium,Send personalized offer
+8620-RJPZN,0,0.48494250717202186,Medium,Send personalized offer
+0471-ARVMX,0,0.539913663061908,Medium,Send personalized offer
+2737-YNGYW,1,0.8811142667621632,High,Priority retention call + discount
+5519-TEEUH,0,0.08146176337350346,Low,Maintain engagement
+0559-CKHUS,0,0.0481987941960828,Low,Maintain engagement
+9327-QSDED,0,0.4630216028327056,Medium,Send personalized offer
+6242-SGYTS,0,0.28471089391870325,Low,Maintain engagement
+6034-YMTOB,0,0.7198992678111871,High,Priority retention call + discount
+5318-YKDPV,0,0.05687477422775905,Low,Maintain engagement
+8219-VYBVI,0,0.0287724059514403,Low,Maintain engagement
+9163-GHAYE,0,0.3851537726466789,Medium,Send personalized offer
+5480-HPRRX,1,0.7754135285578326,High,Priority retention call + discount
+5351-QESIO,0,0.6934507894952257,High,Priority retention call + discount
+6967-PEJLL,0,0.17571112582620121,Low,Maintain engagement
+4378-MYPGO,0,0.12267702952509342,Low,Maintain engagement
+2034-GDRCN,1,0.9523928811486504,High,Priority retention call + discount
+4973-RLZVI,0,0.09673165003090121,Low,Maintain engagement
+1095-WGNGG,0,0.25338405514443874,Low,Maintain engagement
+5628-FCGYG,0,0.8278303516922663,High,Priority retention call + discount
+9389-ACWBI,0,0.7355037151020383,High,Priority retention call + discount
+4955-VCWBI,0,0.04932247912663027,Low,Maintain engagement
+1047-RNXZV,0,0.02392167153367726,Low,Maintain engagement
+0330-IVZHA,1,0.822816679426337,High,Priority retention call + discount
+1622-HSHSF,0,0.4930522423611159,Medium,Send personalized offer
+0295-PPHDO,1,0.9754504233667639,High,Priority retention call + discount
+3372-KWFBM,1,0.862926917364146,High,Priority retention call + discount
+5266-PFRQK,0,0.06481689867588028,Low,Maintain engagement
+4581-LNWUM,0,0.7092910401851293,High,Priority retention call + discount
+6270-OMFIW,1,0.48632666839677147,Medium,Send personalized offer
+7560-QJAVJ,0,0.03352328731010311,Low,Maintain engagement
+6646-QVXLR,1,0.6035366156683311,High,Priority retention call + discount
+4468-YDOVK,0,0.5114599275526026,Medium,Send personalized offer
+5382-SOYZL,0,0.8473892520479169,High,Priority retention call + discount
+0608-JDVEC,0,0.03500428882660489,Low,Maintain engagement
+3766-EJLFL,0,0.13555716577013494,Low,Maintain engagement
+3006-XIMLN,1,0.934781968437847,High,Priority retention call + discount
+0420-TXVSG,0,0.04619603484460828,Low,Maintain engagement
+7663-RGWBC,1,0.7413416126884553,High,Priority retention call + discount
+5533-RJFTJ,0,0.4053411158040479,Medium,Send personalized offer
+7061-OVMIM,0,0.06275298545305578,Low,Maintain engagement
+4830-FAXFM,0,0.2776829628051444,Low,Maintain engagement
+3179-GBRWV,0,0.4241483363237688,Medium,Send personalized offer
+3836-FZSDJ,0,0.02398554306610389,Low,Maintain engagement
+4489-SNOJF,1,0.28499362497972874,Low,Maintain engagement
+3865-ZYKAD,0,0.43634905082279674,Medium,Send personalized offer
+9640-ZSLDC,0,0.13005623725202675,Low,Maintain engagement
+3733-UOCWF,0,0.2971076506972239,Low,Maintain engagement
+9508-ILZDG,0,0.6972258673217571,High,Priority retention call + discount
+9741-YLNTD,0,0.8534200732390255,High,Priority retention call + discount
+0983-TATYJ,0,0.12966125393171643,Low,Maintain engagement
+3891-PUQOD,1,0.7894329576019171,High,Priority retention call + discount
+4419-UJMUS,0,0.23242278092999571,Low,Maintain engagement
+0816-TSPHQ,0,0.38002368673334613,Medium,Send personalized offer
+4829-AUOAX,1,0.6210992388608062,High,Priority retention call + discount
+9972-VAFJJ,0,0.42219451027665916,Medium,Send personalized offer
+2040-OBMLJ,0,0.2630032800963291,Low,Maintain engagement
+7180-PISOG,1,0.9348614122884553,High,Priority retention call + discount
+8083-YTZES,1,0.9140521666431061,High,Priority retention call + discount
+6292-TOSSS,0,0.032370013409673166,Low,Maintain engagement
+6061-GWWAV,0,0.08727426634559886,Low,Maintain engagement
+6402-EJMWF,0,0.7187572326783608,High,Priority retention call + discount
+9507-EXLTT,1,0.9274074957796662,High,Priority retention call + discount
+1092-GANHU,1,0.7120724016089766,High,Priority retention call + discount
+5857-XRECV,0,0.191128769865784,Low,Maintain engagement
+3540-RZJYU,1,0.6040909947608807,High,Priority retention call + discount
+9844-FELAJ,0,0.4672248467788833,Medium,Send personalized offer
+2696-ECXKC,0,0.3039106632788324,Medium,Send personalized offer
+6051-PTVNS,0,0.04472936372531079,Low,Maintain engagement
+2522-WLNSF,0,0.1561438285290374,Low,Maintain engagement
+5198-EFNBM,0,0.44092354165426284,Medium,Send personalized offer
+9752-ZNQUT,0,0.7657253528354335,High,Priority retention call + discount
+2587-EKXTS,0,0.6775931844290229,High,Priority retention call + discount
+8714-EUHJO,1,0.6616996929792666,High,Priority retention call + discount
+4779-ZGICK,0,0.02590253712503337,Low,Maintain engagement
+5133-POWUA,0,0.7336712789329596,High,Priority retention call + discount
+3642-BYHDO,0,0.012330232328508339,Low,Maintain engagement
+3396-DKDEL,0,0.12279646686582285,Low,Maintain engagement
+1015-OWJKI,0,0.4206762907467844,Medium,Send personalized offer
+7279-NMVJC,0,0.10056006444894143,Low,Maintain engagement
+6776-TLWOI,1,0.3692319950744753,Medium,Send personalized offer
+3639-XJHKQ,0,0.2909613774782532,Low,Maintain engagement
+2386-OWURY,0,0.5766301080711007,Medium,Send personalized offer
+8709-KRDVL,0,0.7687177899761124,High,Priority retention call + discount
+4223-BKEOR,0,0.14209440398288525,Low,Maintain engagement
+6854-EXGSF,0,0.4357839181969772,Medium,Send personalized offer
+1452-XRSJV,0,0.13234866295134262,Low,Maintain engagement
+5501-TVMGM,0,0.8619995137700094,High,Priority retention call + discount
+0074-HDKDG,0,0.11829104393410277,Low,Maintain engagement
+2984-TBYKU,0,0.09613270343024874,Low,Maintain engagement
+2091-MJTFX,1,0.364054279155766,Medium,Send personalized offer
+5159-YFPKQ,1,0.8912971397235927,High,Priority retention call + discount
+7952-OBOYL,0,0.8567045752638769,High,Priority retention call + discount
+4892-VLANZ,1,0.41629332042588385,Medium,Send personalized offer
+6892-XPFPU,1,0.8553573638867675,High,Priority retention call + discount
+5161-XEUVX,0,0.1691730440220423,Low,Maintain engagement
+5236-XMZJY,0,0.14611104994649482,Low,Maintain engagement
+5446-DKWYW,0,0.2962012675359264,Low,Maintain engagement
+0174-QRVVY,0,0.017113717393734792,Low,Maintain engagement
+4312-KFRXN,0,0.021398657614151818,Low,Maintain engagement
+5469-NUJUR,0,0.059902701628425106,Low,Maintain engagement
+3605-JISKB,0,0.11574232477335522,Low,Maintain engagement
+1194-SPVSP,0,0.41201264111778513,Medium,Send personalized offer
+9931-KGHOA,0,0.19321440326380246,Low,Maintain engagement
+9767-FFLEM,0,0.5178809487458754,Medium,Send personalized offer
+7649-PHJVR,0,0.13409699990184076,Low,Maintain engagement
+8622-ZLFKO,0,0.9102546882091811,High,Priority retention call + discount
+5373-SFODM,1,0.7257016315626516,High,Priority retention call + discount
+5828-AVIPD,1,0.6322678894367556,High,Priority retention call + discount
+8161-QYMTT,0,0.9070780618802123,High,Priority retention call + discount
+3722-WPXTK,1,0.9667544591199058,High,Priority retention call + discount
+1051-GEJLJ,0,0.40486198461863726,Medium,Send personalized offer
+0365-TRTPY,0,0.3797164780106132,Medium,Send personalized offer
+6874-SGLHU,0,0.43811124668825285,Medium,Send personalized offer
+2001-MCUUW,0,0.24612335926445514,Low,Maintain engagement
+0052-YNYOT,0,0.05283827520222022,Low,Maintain engagement
+4075-JFPGR,0,0.3868197530013462,Medium,Send personalized offer
+6168-YBYNP,0,0.6718845786319694,High,Priority retention call + discount
+7470-MCQTK,1,0.7223379441757253,High,Priority retention call + discount
+5032-MIYKT,0,0.8848704851343403,High,Priority retention call + discount
+9838-BFCQT,0,0.016935693177047514,Low,Maintain engagement
+6630-UJZMY,0,0.9486987499110849,High,Priority retention call + discount
+8985-OOPOS,0,0.5933740930568916,Medium,Send personalized offer
+4700-UBQMV,0,0.3107099766803357,Medium,Send personalized offer
+9710-ZUSHQ,1,0.6375042046449532,High,Priority retention call + discount
+1927-QEWMY,0,0.014226116285122065,Low,Maintain engagement
+7233-IOQNP,0,0.18955189684177232,Low,Maintain engagement
+3658-KIBGF,1,0.7205796178214547,High,Priority retention call + discount
+2995-UPRYS,1,0.4119693665085986,Medium,Send personalized offer
+9979-RGMZT,0,0.6836282079000544,High,Priority retention call + discount
+8433-WPJTV,0,0.39234861343056143,Medium,Send personalized offer
+3930-ZGWVE,0,0.4165851151158316,Medium,Send personalized offer
+0431-APWVY,1,0.48714688196671396,Medium,Send personalized offer
+2257-BOVXD,0,0.47534027311392035,Medium,Send personalized offer
+0655-RBDUG,1,0.8807469406242904,High,Priority retention call + discount
+6227-HWPWX,1,0.5221118735537126,Medium,Send personalized offer
+6797-LNAQX,1,0.152911107570912,Low,Maintain engagement
+4713-LZDRV,1,0.9198740625592615,High,Priority retention call + discount
+5766-ZJYBB,1,0.41862930391968894,Medium,Send personalized offer
+3717-FDJFU,0,0.07716371156595477,Low,Maintain engagement
+3096-WPXBT,0,0.2873070918383447,Low,Maintain engagement
+9143-CANJF,0,0.21605184006379086,Low,Maintain engagement
+1139-WUOAH,0,0.08640225667792478,Low,Maintain engagement
+4672-FOTSD,0,0.45999613409179924,Medium,Send personalized offer
+0668-OGMHD,0,0.41815425834117237,Medium,Send personalized offer
+8779-YIQQA,0,0.090241718845265,Low,Maintain engagement
+4522-AKYLR,0,0.5115063268513605,Medium,Send personalized offer
+2309-OSFEU,1,0.7331197661396472,High,Priority retention call + discount
+3896-RCYYE,0,0.35798887558511383,Medium,Send personalized offer
+0963-ZBDRN,1,0.6635548768390713,High,Priority retention call + discount
+0576-WNXXC,1,0.7942157966369036,High,Priority retention call + discount
+0017-IUDMW,0,0.1184845383780953,Low,Maintain engagement
+0181-RITDD,0,0.085154795853081,Low,Maintain engagement
+5301-GAUUY,1,0.5628599644798921,Medium,Send personalized offer
+4013-GUXND,0,0.4104699981153191,Medium,Send personalized offer
+1716-LSAMB,0,0.022102901578061072,Low,Maintain engagement
+0513-RBGPE,0,0.055745883486814495,Low,Maintain engagement
+1754-GKYPY,0,0.7976036250049198,High,Priority retention call + discount
+5240-CAOYT,0,0.3976966487391337,Medium,Send personalized offer
+6060-QBMGV,0,0.015777917810327353,Low,Maintain engagement
+9052-DHNKM,0,0.18609536524082104,Low,Maintain engagement
+6917-FIJHC,0,0.028113811856596768,Low,Maintain engagement
+8805-JNRAZ,0,0.5532989609318336,Medium,Send personalized offer
+3780-DDGSE,0,0.4352056762919633,Medium,Send personalized offer
+9576-SYUHJ,0,0.6427326506867247,High,Priority retention call + discount
+7054-ENNGU,0,0.37003804050179784,Medium,Send personalized offer
+0388-EOPEX,1,0.8637396691420547,High,Priority retention call + discount
+3422-LYEPQ,1,0.9070702637078356,High,Priority retention call + discount
+9755-JHNMN,0,0.024269138622822015,Low,Maintain engagement
+7392-YYPYJ,0,0.7861788017747616,High,Priority retention call + discount
+9381-NDKME,1,0.6394674554316034,High,Priority retention call + discount
+1942-OQFRW,0,0.7411043806535021,High,Priority retention call + discount
+1629-DQQVB,0,0.25313459082104145,Low,Maintain engagement
+7691-XVTZH,0,0.21752495511014341,Low,Maintain engagement
+5921-NGYRH,0,0.34802066205662113,Medium,Send personalized offer
+5297-MDOIR,0,0.184809511785034,Low,Maintain engagement
+7603-USHJS,1,0.7287343139022042,High,Priority retention call + discount
+8788-DOXSU,0,0.183974951062919,Low,Maintain engagement
+3317-VLGQT,0,0.8013526352417923,High,Priority retention call + discount
+6968-URWQU,0,0.21658989895458747,Low,Maintain engagement
+2867-UIMSS,1,0.9295926045582817,High,Priority retention call + discount
+4983-CLMLV,0,0.6582283006369,High,Priority retention call + discount
+2212-LYASK,0,0.2840991268104635,Low,Maintain engagement
+3858-XHYJO,0,0.35953496945608665,Medium,Send personalized offer
+8690-UPCZI,0,0.13547791999289474,Low,Maintain engagement
+6374-AFWOX,0,0.025752278791358947,Low,Maintain engagement
+1131-SUEKT,0,0.2949707110703254,Low,Maintain engagement
+0121-SNYRK,0,0.13687773119194305,Low,Maintain engagement
+1370-GGAWX,0,0.483306479818514,Medium,Send personalized offer
+5495-GPSRW,0,0.05718068233156931,Low,Maintain engagement
+6713-OKOMC,0,0.4187974574249486,Medium,Send personalized offer
+4560-WQAQW,0,0.10150377806197171,Low,Maintain engagement
+7471-MQPOS,0,0.150891602058724,Low,Maintain engagement
+7184-LRUUR,0,0.180309417614681,Low,Maintain engagement
+7311-MQJCH,0,0.26222869347659794,Low,Maintain engagement
+2696-RZVZW,0,0.023032332344881737,Low,Maintain engagement
+7853-WNZSY,0,0.49942145231914953,Medium,Send personalized offer
+5223-UZAVK,0,0.29129425518713475,Low,Maintain engagement
+9278-VZKCD,0,0.7348571048419089,High,Priority retention call + discount
+7181-BQYBV,1,0.9592938408845192,High,Priority retention call + discount
+1707-HABPF,0,0.3480465274135517,Medium,Send personalized offer
+0058-EVZWM,0,0.5199484432346299,Medium,Send personalized offer
+3967-KXAPS,0,0.04337028499482202,Low,Maintain engagement
+0506-LVNGN,1,0.8508670738553014,High,Priority retention call + discount
+9248-OJYKK,1,0.9491592239169909,High,Priority retention call + discount
+8819-ZBYNA,0,0.18068009978487726,Low,Maintain engagement
+5702-KVQRD,0,0.06641762802806528,Low,Maintain engagement
+6461-PPAXN,0,0.08927370702470754,Low,Maintain engagement
+4248-QPAVC,1,0.6412725417783965,High,Priority retention call + discount
+5863-OOKCL,0,0.26142510506204714,Low,Maintain engagement
+0256-LTHVJ,1,0.6947833487701286,High,Priority retention call + discount
+9128-CPXKI,0,0.23341863115754102,Low,Maintain engagement
+5825-XJOCM,0,0.11229091899597646,Low,Maintain engagement
+5440-VHLUL,0,0.3576173420772122,Medium,Send personalized offer
+4329-YPDDQ,0,0.6007236469184013,High,Priority retention call + discount
+6286-SUUWT,0,0.4154182890224213,Medium,Send personalized offer
+0952-KMEEH,1,0.722751276765703,High,Priority retention call + discount
+2649-HWLYB,0,0.04008120029493939,Low,Maintain engagement
+7426-WEIJX,0,0.5073118255795432,Medium,Send personalized offer
+2923-ARZLG,0,0.11773270314380556,Low,Maintain engagement
+3312-UUMZW,0,0.7343873974008149,High,Priority retention call + discount
+8884-ADFVN,1,0.9295437543550477,High,Priority retention call + discount
+3470-OBUET,0,0.031024703325837788,Low,Maintain engagement
+4299-OPXEJ,0,0.028155714988059074,Low,Maintain engagement
+8190-ZTQFB,0,0.45827989165202354,Medium,Send personalized offer
+2428-ZMCTB,0,0.24679057352601255,Low,Maintain engagement
+9866-OCCKE,0,0.1709490866713407,Low,Maintain engagement
+3794-NFNCH,0,0.3775391026779559,Medium,Send personalized offer
+1574-DYCWE,0,0.019429941520850404,Low,Maintain engagement
+5442-BXVND,0,0.15142070550107123,Low,Maintain engagement
+1335-NTIUC,0,0.7317835282373332,High,Priority retention call + discount
+7515-LODFU,0,0.018287155807353298,Low,Maintain engagement
+5186-SAMNZ,1,0.9053970173866098,High,Priority retention call + discount
+2077-MPJQO,0,0.8632994344906914,High,Priority retention call + discount
+9866-QEVEE,1,0.7817510704425465,High,Priority retention call + discount
+2478-EEWWM,0,0.6076580049211596,High,Priority retention call + discount
+6784-XYJAE,0,0.2374392107138236,Low,Maintain engagement
+2325-NBPZG,0,0.8155395529124894,High,Priority retention call + discount
+9992-UJOEL,0,0.6648122046970948,High,Priority retention call + discount
+6507-ZJSUR,0,0.8351661753290587,High,Priority retention call + discount
+5609-CEBID,1,0.8242532737209592,High,Priority retention call + discount
+4098-NAUKP,0,0.548486494275795,Medium,Send personalized offer
+4332-MUOEZ,0,0.30969076217509633,Medium,Send personalized offer
+8455-HIRAQ,0,0.42718113919147627,Medium,Send personalized offer
+6223-DHJGV,0,0.07372275993373271,Low,Maintain engagement
+5917-RYRMG,0,0.08704964512243077,Low,Maintain engagement
+6421-SZVEM,0,0.3325414572912592,Medium,Send personalized offer
+0430-IHCDJ,0,0.6074854785190275,High,Priority retention call + discount
+3847-BAERP,0,0.290306660452396,Low,Maintain engagement
+0916-QOFDP,0,0.8727225867113839,High,Priority retention call + discount
+6711-VTNRE,1,0.6227577942632427,High,Priority retention call + discount
+1097-FSPVW,0,0.143305667451413,Low,Maintain engagement
+5457-COLHT,0,0.029565075459958068,Low,Maintain engagement
+6557-BZXLQ,0,0.7005634959193168,High,Priority retention call + discount
+9803-FTJCG,0,0.06811011196360688,Low,Maintain engagement
+8749-CLJXC,0,0.41483523056562244,Medium,Send personalized offer
+6328-ZPBGN,1,0.8869072220806988,High,Priority retention call + discount
+6013-BHCAW,0,0.08267267187464018,Low,Maintain engagement
+6625-FLENO,0,0.02068865024739921,Low,Maintain engagement
+7460-ITWWP,0,0.69836837504696,High,Priority retention call + discount
+6169-PPETC,0,0.023432189068707445,Low,Maintain engagement
+2323-ARSVR,0,0.17019241465064244,Low,Maintain engagement
+7249-WBIYX,1,0.8827872021732723,High,Priority retention call + discount
+4237-RLAQD,1,0.733436596265258,High,Priority retention call + discount
+4360-QRAVE,0,0.40252713938965456,Medium,Send personalized offer
+3071-MVJCD,0,0.026902791302122118,Low,Maintain engagement
+9747-DDZOS,1,0.8632007507963659,High,Priority retention call + discount
+6173-GOLSU,0,0.731045456395018,High,Priority retention call + discount
+0743-HRVFF,0,0.2930937452924569,Low,Maintain engagement
+7503-QQRVF,1,0.6513346475929064,High,Priority retention call + discount
+3200-MNQTF,0,0.02773138950780704,Low,Maintain engagement
+8143-ETQTI,0,0.04603305228380429,Low,Maintain engagement
+9369-XFEHK,1,0.6023585839778137,High,Priority retention call + discount
+6583-SZVGP,0,0.25275249847311154,Low,Maintain engagement
+7892-QVYKW,0,0.7322751462400698,High,Priority retention call + discount
+0289-IVARM,0,0.23432411918415513,Low,Maintain engagement
+3030-YDNRM,0,0.84362945317699,High,Priority retention call + discount
+1697-LYYYX,0,0.0388136569030629,Low,Maintain engagement
+6581-NQCBA,1,0.6783599523155195,High,Priority retention call + discount
+9050-QLROH,1,0.7790794225274069,High,Priority retention call + discount
+2930-UOTMB,1,0.20130592792260815,Low,Maintain engagement
+3511-BFTJW,0,0.028986601896907323,Low,Maintain engagement
+0015-UOCOJ,0,0.5544276890785328,Medium,Send personalized offer
+1116-DXXDF,0,0.2671608094292049,Low,Maintain engagement
+7130-CTCUS,0,0.3880689843070524,Medium,Send personalized offer
+0988-JRWWP,0,0.8214676589939462,High,Priority retention call + discount
+6112-KTHFQ,0,0.26415573936335773,Low,Maintain engagement
+8181-YHCMF,0,0.05487257390369249,Low,Maintain engagement
+3223-WZWJM,1,0.7918348978231972,High,Priority retention call + discount
+2139-FQHLM,0,0.5277335593218637,Medium,Send personalized offer
+2694-CIUMO,0,0.6712439575930905,High,Priority retention call + discount
+6418-HNFED,0,0.07723969352054073,Low,Maintain engagement
+8849-AYPTR,0,0.7112854751573641,High,Priority retention call + discount
+8015-IHCGW,0,0.1642155051787767,Low,Maintain engagement
+4570-QHXHL,0,0.598277766031885,Medium,Send personalized offer
+3524-WQDSG,0,0.6978604797894775,High,Priority retention call + discount
+6000-APYLU,1,0.8428762671448252,High,Priority retention call + discount
+6770-XUAGN,1,0.5346105550165775,Medium,Send personalized offer
+8601-QACRS,1,0.698825572735444,High,Priority retention call + discount
+6933-FHBZC,0,0.16140993617115224,Low,Maintain engagement
+5366-IJEQJ,1,0.8263451017800175,High,Priority retention call + discount
+2088-IEBAU,0,0.09006285221010152,Low,Maintain engagement
+1221-GHZEP,0,0.04389620002289401,Low,Maintain engagement
+5469-CTCWN,1,0.428309279462607,Medium,Send personalized offer
+7517-LDMPS,0,0.7833559108774397,High,Priority retention call + discount
+4703-MQYKT,0,0.042200842448131465,Low,Maintain engagement
+4735-BJKOU,0,0.024431817464541764,Low,Maintain engagement
+8375-DKEBR,1,0.9293601126580889,High,Priority retention call + discount
+2824-DXNKN,0,0.046363975741641014,Low,Maintain engagement
+8570-KLJYJ,0,0.12318367347377963,Low,Maintain engagement
+9138-EFSMO,0,0.3774643347922503,Medium,Send personalized offer
+5600-PDUJF,0,0.5210738358340667,Medium,Send personalized offer
+0970-ETWGE,1,0.965888882853122,High,Priority retention call + discount
+1166-PQLGG,0,0.01193538139343829,Low,Maintain engagement
+7901-TBKJX,0,0.8057662203011962,High,Priority retention call + discount
+1150-WFARN,1,0.1472598169898734,Low,Maintain engagement
+1088-AUUZZ,0,0.05345476312682043,Low,Maintain engagement
+1322-AGOQM,1,0.24996672858468985,Low,Maintain engagement
+6338-AVWCY,1,0.8046937868893702,High,Priority retention call + discount
+2959-MJHIC,1,0.9136863662860845,High,Priority retention call + discount
+1867-BDVFH,1,0.7942184987898517,High,Priority retention call + discount
+5014-WUQMG,0,0.3254550540524935,Medium,Send personalized offer
+9986-BONCE,1,0.3405840366444438,Medium,Send personalized offer
+4521-WFJAI,0,0.03792344077867898,Low,Maintain engagement
+2266-FUBDZ,0,0.04233964836888685,Low,Maintain engagement
+5542-TBBWB,0,0.9204009343928514,High,Priority retention call + discount
+4208-UFFGW,1,0.665105964634443,High,Priority retention call + discount
+7209-JCUDS,1,0.8488971371468933,High,Priority retention call + discount
+1820-DJFPH,0,0.023748825202145087,Low,Maintain engagement
+5759-RCVCB,1,0.7376194223783051,High,Priority retention call + discount
+5170-PTRKA,0,0.11357332455400529,Low,Maintain engagement
+1205-WNWPJ,1,0.5042869859788852,Medium,Send personalized offer
+2659-VXMWZ,1,0.40659292811383013,Medium,Send personalized offer
+0298-XACET,0,0.05913008482044282,Low,Maintain engagement
+3088-FVYWK,0,0.025690362051520758,Low,Maintain engagement
+1035-IPQPU,0,0.7516858726809107,High,Priority retention call + discount
+7851-FLGGQ,1,0.7998475427275274,High,Priority retention call + discount
+5575-TPIZQ,0,0.5132683818005703,Medium,Send personalized offer
+7881-EVUAD,1,0.8305872896282395,High,Priority retention call + discount
+4412-YLTKF,1,0.7645299707963364,High,Priority retention call + discount
+4154-AQUGT,1,0.6906676739631232,High,Priority retention call + discount
+9033-EOXWV,1,0.36146294282571545,Medium,Send personalized offer
+4759-PXTAN,0,0.28444775051801396,Low,Maintain engagement
+1346-PJWTK,0,0.3684295468123271,Medium,Send personalized offer
+6317-YPKDH,1,0.6721499272011381,High,Priority retention call + discount
+9089-UOWJG,0,0.5244254525721121,Medium,Send personalized offer
+8735-NBLWT,0,0.21980813296820081,Low,Maintain engagement
+5140-FOMCQ,0,0.3957700929523143,Medium,Send personalized offer
+0732-OCQOC,0,0.03578506092354925,Low,Maintain engagement
+2307-FYNNL,0,0.2571141905384118,Low,Maintain engagement
+1016-DJTSV,0,0.8089008762200599,High,Priority retention call + discount
+9746-UGFAC,0,0.08682272044743983,Low,Maintain engagement
+3466-WAESX,0,0.5278445903497119,Medium,Send personalized offer
+5574-NXZIU,0,0.09042551037298252,Low,Maintain engagement
+0871-URUWO,1,0.8293278793919973,High,Priority retention call + discount
+3587-PMCOY,0,0.6376287117802115,High,Priority retention call + discount
+7587-RZNME,1,0.7594010720034531,High,Priority retention call + discount
+4353-HYOJD,0,0.21523511225005112,Low,Maintain engagement
+5774-QPLTF,0,0.07137023388109474,Low,Maintain engagement
+9637-EIHEQ,1,0.7223921227896535,High,Priority retention call + discount
+1525-LNLOJ,0,0.08962813373164685,Low,Maintain engagement
+4501-UYKBC,0,0.20726842873757495,Low,Maintain engagement
+9057-SIHCH,1,0.9514513520599932,High,Priority retention call + discount
+6710-HSJRD,0,0.640894119158166,High,Priority retention call + discount
+1240-KNSEZ,1,0.5009796866881061,Medium,Send personalized offer
+6080-TCMYC,0,0.6342361250297779,High,Priority retention call + discount
+5934-TSSAU,0,0.5757951167025511,Medium,Send personalized offer
+7854-EKTJL,1,0.5117959847504614,Medium,Send personalized offer
+0701-TJSEF,0,0.4671846774008456,Medium,Send personalized offer
+0475-RIJEP,1,0.6195892075800604,High,Priority retention call + discount
+6349-JDHQP,0,0.021255239492297608,Low,Maintain engagement
+2480-SQIOB,0,0.6329917433089653,High,Priority retention call + discount
+5207-PLSTK,0,0.6251464298711921,High,Priority retention call + discount
+6377-WHAOX,0,0.7084746583601503,High,Priority retention call + discount
+8577-QSOCG,0,0.03150378769519806,Low,Maintain engagement
+6284-KMNUF,0,0.5418073630424917,Medium,Send personalized offer
+9073-ZZIAY,0,0.04848444238145143,Low,Maintain engagement
+8347-GDTMP,0,0.017780803990069396,Low,Maintain engagement
+2386-LAHRK,1,0.8145484851223835,High,Priority retention call + discount
+7690-KPNCU,0,0.13944962377753262,Low,Maintain engagement
+6519-ZHPXP,0,0.10009742578507479,Low,Maintain engagement
+0959-WHOKV,0,0.44078929298190345,Medium,Send personalized offer
+6376-GAHQE,1,0.8835215607106034,High,Priority retention call + discount
+8165-ZJRNM,0,0.017059786560782348,Low,Maintain engagement
+5245-VDBUR,0,0.11152558158917836,Low,Maintain engagement
+7114-AEOZE,0,0.018430070236317955,Low,Maintain engagement
+2495-INZWQ,1,0.8936309688403233,High,Priority retention call + discount
+1169-WCVAK,0,0.5645330663512237,Medium,Send personalized offer
+5619-XZZKR,0,0.223638914864975,Low,Maintain engagement
+8207-VVMYB,0,0.026686425794522305,Low,Maintain engagement
+4785-FCIFB,0,0.02661632072566861,Low,Maintain engagement
+0310-MVLET,1,0.6809678103683188,High,Priority retention call + discount
+8993-PHFWD,1,0.7661323380919678,High,Priority retention call + discount
+6134-KWTBV,0,0.025772591567696977,Low,Maintain engagement
+4480-MBMLB,0,0.49593133142777873,Medium,Send personalized offer
+8314-HTWVE,0,0.054121764224720675,Low,Maintain engagement
+6080-LNESI,0,0.0321942074689624,Low,Maintain engagement
+4541-RMRLG,1,0.36206263994641863,Medium,Send personalized offer
+4817-VYYWS,1,0.7828006777955593,High,Priority retention call + discount
+5917-HBSDW,0,0.1527886857987663,Low,Maintain engagement
+4993-JCRGJ,0,0.5526006542057758,Medium,Send personalized offer
+6823-SIDFQ,0,0.0815123904708249,Low,Maintain engagement
+1731-TVIUK,1,0.9042595377160655,High,Priority retention call + discount
+1768-ZAIFU,1,0.8582057392548726,High,Priority retention call + discount
+7666-WKRON,1,0.15202221257224893,Low,Maintain engagement
+5136-RGMZO,0,0.46587854924157346,Medium,Send personalized offer
+8258-GSTJK,1,0.9142056954244729,High,Priority retention call + discount
+6856-RAURS,0,0.8998575385418419,High,Priority retention call + discount
+7410-KTVFV,1,0.4564091942172708,Medium,Send personalized offer
+6603-YRDCJ,0,0.046828364660773135,Low,Maintain engagement
+3120-FAZKD,0,0.03737047149772217,Low,Maintain engagement
+8676-TRMJS,1,0.845850168824904,High,Priority retention call + discount
+4818-QIUFN,1,0.7176136840416044,High,Priority retention call + discount
+2828-SLQPF,0,0.4128715162006365,Medium,Send personalized offer
+4742-TXUEX,0,0.01840773926303713,Low,Maintain engagement
+3324-OIRTO,0,0.2604343708518846,Low,Maintain engagement
+8400-WZICQ,0,0.15541971369541172,Low,Maintain engagement
+6698-OXETB,0,0.05732259977619615,Low,Maintain engagement
+4760-THGOT,0,0.630026186215491,High,Priority retention call + discount
+4335-UPJSI,0,0.029909912677850415,Low,Maintain engagement
+3926-YZVVX,0,0.08328009065901933,Low,Maintain engagement
+5438-QMDDL,0,0.4501494661138755,Medium,Send personalized offer
+4422-QVIJA,0,0.27990809385436005,Low,Maintain engagement
+5845-BZZIB,0,0.025565847384881872,Low,Maintain engagement
+5566-SOEZD,0,0.2502551797223586,Low,Maintain engagement
+1133-KXCGE,0,0.09321913502548972,Low,Maintain engagement
+1357-BIJKI,0,0.6186474445001211,High,Priority retention call + discount
+9167-APMXZ,0,0.7479957847850077,High,Priority retention call + discount
+2279-AXJJK,0,0.5491949816750954,Medium,Send personalized offer
+6953-PBDIN,0,0.04526778083000427,Low,Maintain engagement
+3877-JRJIP,1,0.89566903548431,High,Priority retention call + discount
+3910-MRQOY,0,0.014338787016856506,Low,Maintain engagement
+8809-XKHMD,0,0.11377796236452868,Low,Maintain engagement
+0023-XUOPT,1,0.7525844271487013,High,Priority retention call + discount
+8401-EMUWF,0,0.2765448671796618,Low,Maintain engagement
+2919-HBCJO,1,0.7514257159753369,High,Priority retention call + discount
+1217-VASWC,0,0.46369037843553257,Medium,Send personalized offer
+4709-LKHYG,0,0.09240093734749907,Low,Maintain engagement
+4376-KFVRS,0,0.1257760311969712,Low,Maintain engagement
+8717-VCTXJ,0,0.08213289679018924,Low,Maintain engagement
+2482-CZGBB,1,0.7591178495113347,High,Priority retention call + discount
+6734-PSBAW,0,0.029991659841959284,Low,Maintain engagement
+3247-ZVOUO,1,0.8585513463337989,High,Priority retention call + discount
+6733-LRIZX,0,0.2727379453957388,Low,Maintain engagement
+7581-EBBOU,0,0.1162428873791748,Low,Maintain engagement
+9256-JTBNZ,0,0.22547928042585164,Low,Maintain engagement
+6900-RBKER,0,0.28195613255268076,Low,Maintain engagement
+7816-VGHTO,0,0.1709463947241991,Low,Maintain engagement
+3354-OADJP,0,0.15319970034070243,Low,Maintain engagement
+9860-LISIZ,0,0.13177630151539563,Low,Maintain engagement
+0761-AETCS,1,0.49334334609602515,Medium,Send personalized offer
+1848-LBZHY,0,0.41825724312913626,Medium,Send personalized offer
+5498-IBWPI,0,0.07309907545663996,Low,Maintain engagement
+4735-ASGMA,1,0.8520551512259175,High,Priority retention call + discount
+1530-ZTDOZ,0,0.2701322027231087,Low,Maintain engagement
+2877-VDUER,0,0.15948659879194435,Low,Maintain engagement
+9405-GPBBG,0,0.1941829519824604,Low,Maintain engagement
+7579-OOPEC,1,0.5778926910294836,Medium,Send personalized offer
+2960-NKRSO,0,0.5694210700924471,Medium,Send personalized offer
+6872-HXFNF,0,0.09070323408090471,Low,Maintain engagement
+2810-FTLEM,1,0.4129161686129605,Medium,Send personalized offer
+3970-XGJDU,0,0.02548681336856445,Low,Maintain engagement
+5808-TOTXO,0,0.24064079320200943,Low,Maintain engagement
+4945-RVMTE,0,0.4313747383661386,Medium,Send personalized offer
+2485-ITVKB,1,0.8772465623047857,High,Priority retention call + discount
+5186-EJEGL,0,0.41322584313645155,Medium,Send personalized offer
+9122-UMROB,0,0.4133786309605575,Medium,Send personalized offer
+7492-TAFJD,0,0.11711861001952135,Low,Maintain engagement
+2754-XBHTB,1,0.7777225077973,High,Priority retention call + discount
+4086-WITJG,0,0.013313433221000369,Low,Maintain engagement
+9907-SWKKF,1,0.7522492944472488,High,Priority retention call + discount
+9112-WSNPU,0,0.5624618785221595,Medium,Send personalized offer
+2391-SOORI,1,0.47836939046015686,Medium,Send personalized offer
+3523-QRQLL,1,0.2850624432849509,Low,Maintain engagement
+4819-HJPIW,0,0.4559171507431076,Medium,Send personalized offer
+8711-LOBKY,0,0.017024314782964733,Low,Maintain engagement
+7010-ZMVBF,0,0.16573803995095537,Low,Maintain engagement
+1730-VFMWO,0,0.17663554448709473,Low,Maintain engagement
+1751-NCDLI,0,0.8218912466599264,High,Priority retention call + discount
+8591-TKMZH,0,0.15465126920770828,Low,Maintain engagement
+2778-OCLGR,1,0.4376409564511546,Medium,Send personalized offer
+1459-QNFQT,0,0.045470934388316814,Low,Maintain engagement
+2501-XWWTZ,0,0.7047115541304487,High,Priority retention call + discount
+2925-VDZHY,0,0.039379755688227984,Low,Maintain engagement
+4701-MLJPN,1,0.3326059459305159,Medium,Send personalized offer
+9548-LERKT,0,0.04000181688157915,Low,Maintain engagement
+1360-JYXKQ,0,0.4896487587291784,Medium,Send personalized offer
+7717-BICXI,0,0.01653172297775116,Low,Maintain engagement
+8224-KDLKN,0,0.017300334308008272,Low,Maintain engagement
+7663-CUXZB,0,0.19908783837908306,Low,Maintain engagement
+6979-ZNSFF,1,0.8445500004610194,High,Priority retention call + discount
+2672-OJQZP,0,0.655768579789465,High,Priority retention call + discount
+5331-RGMTT,0,0.7695423156491008,High,Priority retention call + discount
+1302-UHBDD,0,0.8183578101757001,High,Priority retention call + discount
+0923-PNFUB,1,0.8583598133348727,High,Priority retention call + discount
+7803-XOCCZ,0,0.3061604300448478,Medium,Send personalized offer
+2439-LYPMQ,0,0.8010023223469854,High,Priority retention call + discount
+5804-JMYIO,0,0.02213753239152304,Low,Maintain engagement
+5473-KHBPS,0,0.35888430368780744,Medium,Send personalized offer
+6374-NTQLP,0,0.12020113710426122,Low,Maintain engagement
+5949-EBSQK,1,0.5328793174485459,Medium,Send personalized offer
+2408-PSJVE,0,0.1633523292988248,Low,Maintain engagement
+8780-RSYYU,0,0.20394546544820794,Low,Maintain engagement
+8775-ERLNB,0,0.9357896832691369,High,Priority retention call + discount
+0463-TXOAK,0,0.02477299372864786,Low,Maintain engagement
+1218-VKFPE,1,0.21371586616342872,Low,Maintain engagement
+9481-SFCQY,0,0.4746133073248,Medium,Send personalized offer
+6543-CPZMK,1,0.639937240879777,High,Priority retention call + discount
+0106-UGRDO,0,0.19461093188585268,Low,Maintain engagement
+2668-TZSPS,0,0.4125053964774997,Medium,Send personalized offer
+1866-DIOQZ,0,0.11003373167746573,Low,Maintain engagement
+9289-LBQVU,0,0.16516373788444097,Low,Maintain engagement
+6284-AHOOQ,1,0.7068673249005101,High,Priority retention call + discount
+7855-DIWPO,0,0.6796495045908905,High,Priority retention call + discount
+5213-TWWJU,0,0.5358314344450229,Medium,Send personalized offer
+9926-PJHDQ,0,0.0985660003225814,Low,Maintain engagement
+4690-LLKUA,1,0.5578953998586075,Medium,Send personalized offer
+1074-AMIOH,0,0.4491789570870374,Medium,Send personalized offer
+3908-BLSYF,1,0.8622547729828807,High,Priority retention call + discount
+8080-DDEMJ,1,0.7671182700253774,High,Priority retention call + discount
+2748-MYRVK,1,0.35905170195626157,Medium,Send personalized offer
+0463-WZZKO,0,0.4434694513499123,Medium,Send personalized offer
+6022-UGGSO,1,0.6334560790665636,High,Priority retention call + discount
+6834-NXDCA,1,0.6641849948211898,High,Priority retention call + discount
+4415-IJZTP,1,0.9405862026269692,High,Priority retention call + discount
+7808-DVWEP,0,0.3967960279206512,Medium,Send personalized offer
+1346-UFHAX,0,0.6235211804629669,High,Priority retention call + discount
+1855-CFULU,0,0.3797600619510167,Medium,Send personalized offer
+2729-VNVAP,0,0.024944071611385867,Low,Maintain engagement
+6175-IRFIT,0,0.8070710130564747,High,Priority retention call + discount
+0682-USIXD,0,0.665103588102023,High,Priority retention call + discount
+7266-GSSJX,0,0.347949626622841,Medium,Send personalized offer
+7893-IXHRQ,1,0.49706837915791335,Medium,Send personalized offer
+3429-IFLEM,0,0.02109716487893383,Low,Maintain engagement
+0665-XHDJU,0,0.28670356980426676,Low,Maintain engagement
+1628-BIZYP,0,0.9392616297332395,High,Priority retention call + discount
+5376-DEQCP,1,0.915759470560439,High,Priority retention call + discount
+4223-WOZCM,0,0.6586801759185752,High,Priority retention call + discount
+6857-VWJDT,1,0.9497614467122766,High,Priority retention call + discount
+4821-WQOYN,0,0.017452680542651804,Low,Maintain engagement
+3604-WLABM,0,0.38733478589383347,Medium,Send personalized offer
+1385-TQOZW,0,0.3321925489402115,Medium,Send personalized offer
+0749-IRGQE,0,0.7685020722551401,High,Priority retention call + discount
+6857-TKDJV,0,0.019373143321686777,Low,Maintain engagement
+6483-OATDN,0,0.3694427121606889,Medium,Send personalized offer
+2252-JHJGE,0,0.40501984020622656,Medium,Send personalized offer
+4903-CNOZC,0,0.223992521931994,Low,Maintain engagement
+9822-BIIGN,0,0.24115261450290804,Low,Maintain engagement
+0363-QJVFX,1,0.6266489190736204,High,Priority retention call + discount
+0725-CXOTM,0,0.18182170004778805,Low,Maintain engagement
+2926-JEJJC,0,0.1906570114816636,Low,Maintain engagement
+3675-EQOZA,0,0.35462841294426545,Medium,Send personalized offer
+5307-DZCVC,1,0.741992064029627,High,Priority retention call + discount
+4751-ERMAN,0,0.06034862527331205,Low,Maintain engagement
+1261-FWTTE,0,0.6478097667724834,High,Priority retention call + discount
+4785-QRJHC,1,0.28687727778044436,Low,Maintain engagement
+2061-VVFST,0,0.12379814224354799,Low,Maintain engagement
+2676-SSLTO,0,0.08736394074926897,Low,Maintain engagement
+9365-CSLBQ,0,0.017603824380934215,Low,Maintain engagement
+2272-WUSPA,0,0.24103953251025745,Low,Maintain engagement
+9851-KIELU,1,0.7862312690693051,High,Priority retention call + discount
+3199-XGZCY,0,0.8354262946712897,High,Priority retention call + discount
+9040-KZVWO,0,0.2571493755601735,Low,Maintain engagement
+3716-BDVDB,1,0.9217971032294652,High,Priority retention call + discount
+3161-ONRWK,0,0.0635302571952922,Low,Maintain engagement
+9359-UGBTK,0,0.07932321021826914,Low,Maintain engagement
+4213-HKBJO,0,0.037571062457011355,Low,Maintain engagement
+7606-BPHHN,0,0.020293664154588224,Low,Maintain engagement
+2277-DJJDL,0,0.7248466911854888,High,Priority retention call + discount
+3489-VSFRD,0,0.08089120483343089,Low,Maintain engagement
+8158-WPEZG,0,0.5771963846405042,Medium,Send personalized offer
+7534-BFESC,1,0.7812304671410595,High,Priority retention call + discount
+5136-GFPMB,0,0.5735354749731559,Medium,Send personalized offer
+9220-ZNKJI,0,0.12443244745858968,Low,Maintain engagement
+3884-UEBXB,0,0.028196132740866502,Low,Maintain engagement
+4962-CHQPW,0,0.06733381797478115,Low,Maintain engagement
+0365-GXEZS,0,0.5499748130895321,Medium,Send personalized offer
+6370-ZVHDV,0,0.024707073237236008,Low,Maintain engagement
+1936-UAFEH,0,0.11612705583426212,Low,Maintain engagement
+8650-RHRKE,1,0.8129280616183766,High,Priority retention call + discount
+2245-ADZFJ,0,0.08571235860448898,Low,Maintain engagement
+7954-MLBUN,0,0.17165274751261636,Low,Maintain engagement
+1038-RQOST,0,0.16237253492493636,Low,Maintain engagement
+6778-JFCMK,0,0.34151182562973625,Medium,Send personalized offer
+9867-XOBQA,0,0.0684282020542634,Low,Maintain engagement
+4919-IKATY,1,0.8143229867545075,High,Priority retention call + discount
+6815-ABQFQ,0,0.5047763297152178,Medium,Send personalized offer
+0581-BXBUB,0,0.8032347439220846,High,Priority retention call + discount
+4211-MMAZN,1,0.41366983051122064,Medium,Send personalized offer
+5049-MUBWG,0,0.1588789490367336,Low,Maintain engagement
+8778-LMWTJ,0,0.6745030949623885,High,Priority retention call + discount
+0307-BCOPK,0,0.10281659806973818,Low,Maintain engagement
+5380-WJKOV,1,0.7751309096103067,High,Priority retention call + discount
+2754-SDJRD,0,0.7963034794671674,High,Priority retention call + discount
+2368-GAKKQ,0,0.1505605013583486,Low,Maintain engagement
+7395-XWZOY,0,0.39755681035298746,Medium,Send personalized offer
+5178-LMXOP,1,0.9802880592015631,High,Priority retention call + discount
+2320-TZRRH,0,0.09435493879431524,Low,Maintain engagement
+4817-KEQSP,0,0.01254633369460823,Low,Maintain engagement
+4627-MIHJH,0,0.1333804503684927,Low,Maintain engagement
+6047-YHPVI,1,0.8738775509653262,High,Priority retention call + discount
+0402-OAMEN,0,0.016789680352142858,Low,Maintain engagement
+4825-FUREZ,0,0.03591346216762283,Low,Maintain engagement
+7354-OIJLX,0,0.8090799211236104,High,Priority retention call + discount
+3787-TRIAL,0,0.5700837362504323,Medium,Send personalized offer
+7495-OOKFY,1,0.7776311629386389,High,Priority retention call + discount
+2207-RYYRL,0,0.026737144399779242,Low,Maintain engagement
+7408-OFWXJ,0,0.037250884839349456,Low,Maintain engagement
+8430-TWCBX,0,0.05679187875517016,Low,Maintain engagement
+1403-GYAFU,0,0.013277929406595298,Low,Maintain engagement
+7322-OCWHC,0,0.10496822902617353,Low,Maintain engagement
+7669-LCRSD,0,0.5537252505894334,Medium,Send personalized offer
+7018-WBJNK,0,0.6963596782881669,High,Priority retention call + discount
+4706-DGAHW,0,0.7666889848563834,High,Priority retention call + discount
+9114-DPSIA,0,0.029185511507065432,Low,Maintain engagement
+0480-KYJVA,0,0.01660887884413224,Low,Maintain engagement
+0876-WDUUZ,1,0.7998591730103725,High,Priority retention call + discount
+6203-HBZPA,0,0.07164550772999187,Low,Maintain engagement
+9450-TRJUU,0,0.706867404857599,High,Priority retention call + discount
+1952-DVVSW,0,0.14254556839128973,Low,Maintain engagement
+3627-FHKBK,1,0.7906057912706603,High,Priority retention call + discount
+6429-SHBCB,0,0.5546188620839145,Medium,Send personalized offer
+3530-VWVGU,0,0.15863239333063903,Low,Maintain engagement
+0076-LVEPS,0,0.2713922592557325,Low,Maintain engagement
+0742-MOABM,1,0.5118173010909092,Medium,Send personalized offer
+5081-NWSUP,0,0.2198207930831958,Low,Maintain engagement
+8763-KIAFH,0,0.0907405347202096,Low,Maintain engagement
+0484-FFVBJ,0,0.32839141041824865,Medium,Send personalized offer
+3594-KADLU,0,0.5507969442405694,Medium,Send personalized offer
+9648-BCHKM,0,0.06530766707549544,Low,Maintain engagement
+4698-KVLLG,0,0.026658600431936075,Low,Maintain engagement
+9209-NWPGU,0,0.12000641322398949,Low,Maintain engagement
+3506-OVLKD,0,0.08400443919935177,Low,Maintain engagement
+3721-CNEYS,1,0.8910973887592946,High,Priority retention call + discount
+8621-MNIHH,1,0.7584550219415849,High,Priority retention call + discount
+5061-PBXFW,0,0.13219759036980394,Low,Maintain engagement
+3623-FQBOX,0,0.24156691403262745,Low,Maintain engagement
+7278-CKDNC,0,0.7032645869619831,High,Priority retention call + discount
+5606-AMZBO,0,0.7037561827507041,High,Priority retention call + discount
+9804-ICWBG,1,0.9204009343928514,High,Priority retention call + discount
+6388-TABGU,0,0.0501195019558664,Low,Maintain engagement
+9824-QCJPK,0,0.07241188016390293,Low,Maintain engagement
+7957-RYHQD,1,0.4227289126460478,Medium,Send personalized offer
+7055-HNEOJ,0,0.6118169938472947,High,Priority retention call + discount
+8992-CEUEN,0,0.4960446424297223,Medium,Send personalized offer
+1448-PWKYE,1,0.9204697620223354,High,Priority retention call + discount
+9788-YTFGE,0,0.3374166197015973,Medium,Send personalized offer
+7928-VJYAB,0,0.7929572054995001,High,Priority retention call + discount
+7251-XFOIL,0,0.5348910071216012,Medium,Send personalized offer
+4526-ZJJTM,0,0.5862309087931941,Medium,Send personalized offer
+1744-JHKYS,0,0.24222054291108153,Low,Maintain engagement
+8818-DOPVL,0,0.7560141820531332,High,Priority retention call + discount
+4806-KEXQR,1,0.9072520274607637,High,Priority retention call + discount
+9842-EFSYY,0,0.74988737082792,High,Priority retention call + discount
+8443-ZRDBZ,1,0.8895672209409318,High,Priority retention call + discount
+7876-BEUTG,0,0.5230732841855437,Medium,Send personalized offer
+9286-BHDQG,0,0.023152336796649246,Low,Maintain engagement
+5357-TZHPP,1,0.8668553784461748,High,Priority retention call + discount
+3932-CMDTD,1,0.7788009598380715,High,Priority retention call + discount
+9030-QGZNL,0,0.06002811559628587,Low,Maintain engagement
+1784-BXEFA,0,0.31831090165318865,Medium,Send personalized offer
+9108-EQPNQ,0,0.0686904853442356,Low,Maintain engagement
+5092-STPKP,0,0.17187154936546034,Low,Maintain engagement
+1575-KRZZE,0,0.5319435383306867,Medium,Send personalized offer
+2171-UDMFD,0,0.16523430842854045,Low,Maintain engagement
+7338-ERIVA,0,0.11291756787596845,Low,Maintain engagement
+2782-LFZVW,0,0.686055746288304,High,Priority retention call + discount
+2190-BCXEC,0,0.5014975543642498,Medium,Send personalized offer
+2700-LUEVA,0,0.40722235443744975,Medium,Send personalized offer
+3374-LXDEV,1,0.6456267033213675,High,Priority retention call + discount
+7356-AYNJP,0,0.3399418593339619,Medium,Send personalized offer
+7838-LAZFO,0,0.13578289621500805,Low,Maintain engagement
+0440-UEDAI,0,0.2866278922281401,Low,Maintain engagement
+6257-RJOHI,0,0.5568233944716124,Medium,Send personalized offer
+7404-JLKQG,0,0.7649702379918083,High,Priority retention call + discount
+2684-EIWEO,1,0.45087511328852775,Medium,Send personalized offer
+4947-DSMXK,0,0.6787492472463552,High,Priority retention call + discount
+0979-PHULV,1,0.624449878896316,High,Priority retention call + discount
+4753-PADAS,0,0.44046413085822894,Medium,Send personalized offer
+4002-BQWPQ,0,0.2712683504385276,Low,Maintain engagement
+3508-VLHCZ,0,0.0550337761814371,Low,Maintain engagement
+2522-AHJXR,0,0.5483757018467453,Medium,Send personalized offer
+4686-UXDML,0,0.7779538356442793,High,Priority retention call + discount
+0958-YHXGP,0,0.7189922226596892,High,Priority retention call + discount
+1522-VVDMG,1,0.7652876464311829,High,Priority retention call + discount
+7995-ZHHNZ,0,0.10765851877830443,Low,Maintain engagement
+0123-CRBRT,0,0.04629892722605866,Low,Maintain engagement
+9638-JIQYA,0,0.769273668383082,High,Priority retention call + discount
+9139-WQQDY,1,0.3713656972418197,Medium,Send personalized offer
+5226-NOZFC,0,0.6902112306410343,High,Priority retention call + discount
+2692-PFYTJ,0,0.572699480735568,Medium,Send personalized offer
+2332-TODQS,0,0.06625117627524066,Low,Maintain engagement
+8757-TFHHJ,0,0.6493238841349219,High,Priority retention call + discount
+7409-KIUTL,1,0.9129673233953294,High,Priority retention call + discount
+5753-QQWPW,0,0.15619216947896783,Low,Maintain engagement
+3077-RSNTJ,0,0.3117662498491863,Medium,Send personalized offer
+1976-AZZPJ,0,0.4499354275342833,Medium,Send personalized offer
+2165-VOEGB,1,0.24652753456087767,Low,Maintain engagement
+7654-YWJUF,0,0.21498873390543205,Low,Maintain engagement
+7191-ADRGF,0,0.11531584223699724,Low,Maintain engagement
+1902-XBTFB,1,0.6625565037948818,High,Priority retention call + discount
+3717-OEAUQ,0,0.8215707383105627,High,Priority retention call + discount
+2405-LBMUW,0,0.11891698204077109,Low,Maintain engagement
+0048-PIHNL,0,0.059603511668843256,Low,Maintain engagement
+1963-VAUKV,1,0.40195244550025905,Medium,Send personalized offer
+8089-UZWLX,0,0.20147405716543434,Low,Maintain engagement
